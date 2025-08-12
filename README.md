@@ -36,6 +36,16 @@ mvn install:install-file \
     -DgeneratePom=true
 ```
 
+Add the following dependency into the pom.xml of verifiers.
+```
+<dependency>
+    <groupId>org.ants</groupId>
+    <artifactId>veriboost-core</artifactId>
+    <version>1.0</version>
+</dependency>
+```
+
+
 4. Use VeriBoost. Below is a basic example to demonstrate the usage of VeriBoost in your Java application:
 
 ```Java

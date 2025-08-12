@@ -32,7 +32,7 @@ public class VeriBoostParser {
     // read the topology from file, the topology format are as the following
     // from_device:from_interface to_device:to_interface
     // zurich:FastEthernet0/0 frankfurt:FastEthernet4/0
-    void readTopologyFromFile(String file_path) {
+    public void readTopologyFromFile(String file_path) {
         try {
             File file = new File(file_path);
             try (Scanner sc = new Scanner(file)) {
