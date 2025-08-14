@@ -29,34 +29,40 @@ public class VeriBoostParser {
         this.links = links;
     }
 
-    // read the topology from file, the topology format are as the following
-    // from_device:from_interface to_device:to_interface
-    // zurich:FastEthernet0/0 frankfurt:FastEthernet4/0
+    /**
+     * Reads topology from file with support for multiple formats:
+     * Format 1 (original): <src_device:src_interface, dst_device:dst_interface>
+     *   Example: <atlanta:FastEthernet0/1, birmingham:FastEthernet0/0>
+     * Format 2 (new): src_device src_interface dst_device dst_interface
+     *   Example: atlanta FastEthernet0/1 birmingham FastEthernet0/0
+     * 
+     * @param file_path The path to the topology file
+     */
     public void readTopologyFromFile(String file_path) {
         try {
             File file = new File(file_path);
             try (Scanner sc = new Scanner(file)) {
                 while (sc.hasNext()) {
                     String line = sc.nextLine();
-                    // delete some unmeaning char, such as '<' '>' ' '
-                    line = line.replace("<", "");
-                    line = line.replace(">", "");
-                    line = line.replace(" ", "");
+                    // Remove extra whitespace
+                    line = line.trim();
 
-                    // read from device and to device, namely, the link of topology
-                    StringTokenizer str = new StringTokenizer(line, ",", false);
-                    if (str.countTokens() != 2) {
-                        System.out.println("exception of reading lines");
+                    // Skip empty lines
+                    if (line.isEmpty()) {
+                        continue;
                     }
-                    String from = str.nextToken();
-                    String to = str.nextToken();
-                    StringTokenizer from_str = new StringTokenizer(from, ":", false);
-                    StringTokenizer to_str = new StringTokenizer(to, ":", false);
-                    VeriBoostUtil.Interface from_Interface = new VeriBoostUtil.Interface(from_str.nextToken(),
-                            from_str.nextToken());
-                    VeriBoostUtil.Interface to_Interface = new VeriBoostUtil.Interface(to_str.nextToken(), to_str.nextToken());
-                    VeriBoostUtil.Link link = new VeriBoostUtil.Link(from_Interface, to_Interface);
-                    this.links.add(link);
+
+                    // Check which format is being used
+                    if (line.startsWith("<") && line.contains(":") && line.contains(",")) {
+                        // Original format: <src_device:src_interface, dst_device:dst_interface>
+                        parseOriginalFormat(line);
+                    } else if (!line.startsWith("<") && !line.contains(",") && 
+                            !line.contains(":") && line.split("\\s+").length >= 4) {
+                        // New format: src_device src_interface dst_device dst_interface
+                        parseNewFormat(line);
+                    } else {
+                        System.out.println("Unrecognized format in line: " + line);
+                    }
                 }
             }
         } catch (FileNotFoundException e) {
@@ -64,47 +70,144 @@ public class VeriBoostParser {
         }
     }
 
-    /**
-     * Reads topology from an InputStream with the same format as readTopologyFromFile
+   /**
+     * Reads topology from an InputStream with support for multiple formats:
+     * Format 1 (original): <src_device:src_interface, dst_device:dst_interface>
+     *   Example: <atlanta:FastEthernet0/1, birmingham:FastEthernet0/0>
+     * Format 2 (new): src_device src_interface dst_device dst_interface
+     *   Example: atlanta FastEthernet0/1 birmingham FastEthernet0/0
      * @param inputStream The input stream containing topology data
      */
     public void readTopologyFromStream(InputStream inputStream) {
         try (Scanner sc = new Scanner(inputStream)) {
             while (sc.hasNext()) {
                 String line = sc.nextLine();
-                // Remove special characters and whitespace
-                line = line.replace("<", "")
-                        .replace(">", "")
-                        .replace(" ", "");
+                // Remove extra whitespace
+                line = line.trim();
 
-                // Parse the line into from and to interfaces
-                StringTokenizer str = new StringTokenizer(line, ",", false);
-                if (str.countTokens() != 2) {
-                    System.out.println("exception of reading lines");
+                // Skip empty lines
+                if (line.isEmpty()) {
                     continue;
                 }
-                
-                String from = str.nextToken();
-                String to = str.nextToken();
-                
-                StringTokenizer from_str = new StringTokenizer(from, ":", false);
-                StringTokenizer to_str = new StringTokenizer(to, ":", false);
-                
-                VeriBoostUtil.Interface from_Interface = new VeriBoostUtil.Interface(
-                    from_str.nextToken(),
-                    from_str.nextToken()
-                );
-                
-                VeriBoostUtil.Interface to_Interface = new VeriBoostUtil.Interface(
-                    to_str.nextToken(),
-                    to_str.nextToken()
-                );
-                
-                VeriBoostUtil.Link link = new VeriBoostUtil.Link(from_Interface, to_Interface);
-                this.links.add(link);
+
+                // Check which format is being used
+                if (line.startsWith("<") && line.contains(":") && line.contains(",")) {
+                    // Original format: <src_device:src_interface, dst_device:dst_interface>
+                    parseOriginalFormat(line);
+                } else if (!line.startsWith("<") && !line.contains(",") && 
+                        !line.contains(":") && line.split("\\s+").length >= 4) {
+                    // New format: src_device src_interface dst_device dst_interface
+                    parseNewFormat(line);
+                } else {
+                    System.out.println("Unrecognized format in line: " + line);
+                }
             }
         }
     }
+
+    /**
+     * Parses the original format: <src_device:src_interface, dst_device:dst_interface>
+     * @param line The line to parse
+     */
+    private void parseOriginalFormat(String line) {
+        // Remove angle brackets
+        line = line.replace("<", "").replace(">", "").trim();
+        
+        // Split by comma
+        StringTokenizer str = new StringTokenizer(line, ",", false);
+        if (str.countTokens() != 2) {
+            System.out.println("Exception reading line: " + line);
+            return;
+        }
+        
+        String from = str.nextToken().trim();
+        String to = str.nextToken().trim();
+        
+        StringTokenizer from_str = new StringTokenizer(from, ":", false);
+        StringTokenizer to_str = new StringTokenizer(to, ":", false);
+        
+        if (from_str.countTokens() != 2 || to_str.countTokens() != 2) {
+            System.out.println("Exception reading line: " + line);
+            return;
+        }
+        
+        VeriBoostUtil.Interface from_Interface = new VeriBoostUtil.Interface(
+            from_str.nextToken().trim(), from_str.nextToken().trim());
+        VeriBoostUtil.Interface to_Interface = new VeriBoostUtil.Interface(
+            to_str.nextToken().trim(), to_str.nextToken().trim());
+            
+        VeriBoostUtil.Link link = new VeriBoostUtil.Link(from_Interface, to_Interface);
+        this.links.add(link);
+    }
+
+    /**
+     * Parses the new format: src_device src_interface dst_device dst_interface
+     * @param line The line to parse
+     */
+    private void parseNewFormat(String line) {
+        StringTokenizer str = new StringTokenizer(line, " ", false);
+        
+        // Should have at least 4 tokens (src_device, src_interface, dst_device, dst_interface)
+        // Extra tokens are ignored
+        if (str.countTokens() < 4) {
+            System.out.println("Exception reading line: " + line);
+            return;
+        }
+        
+        String srcDevice = str.nextToken();
+        String srcInterface = str.nextToken();
+        String dstDevice = str.nextToken();
+        String dstInterface = str.nextToken();
+        
+        VeriBoostUtil.Interface from_Interface = new VeriBoostUtil.Interface(
+            srcDevice, srcInterface);
+        VeriBoostUtil.Interface to_Interface = new VeriBoostUtil.Interface(
+            dstDevice, dstInterface);
+            
+        VeriBoostUtil.Link link = new VeriBoostUtil.Link(from_Interface, to_Interface);
+        this.links.add(link);
+    }
+    // /**
+    //  * Reads topology from an InputStream with the same format as readTopologyFromFile
+    //  * @param inputStream The input stream containing topology data
+    //  */
+    // public void readTopologyFromStream(InputStream inputStream) {
+    //     try (Scanner sc = new Scanner(inputStream)) {
+    //         while (sc.hasNext()) {
+    //             String line = sc.nextLine();
+    //             // Remove special characters and whitespace
+    //             line = line.replace("<", "")
+    //                     .replace(">", "")
+    //                     .replace(" ", "");
+
+    //             // Parse the line into from and to interfaces
+    //             StringTokenizer str = new StringTokenizer(line, ",", false);
+    //             if (str.countTokens() != 2) {
+    //                 System.out.println("exception of reading lines");
+    //                 continue;
+    //             }
+                
+    //             String from = str.nextToken();
+    //             String to = str.nextToken();
+                
+    //             StringTokenizer from_str = new StringTokenizer(from, ":", false);
+    //             StringTokenizer to_str = new StringTokenizer(to, ":", false);
+                
+    //             VeriBoostUtil.Interface from_Interface = new VeriBoostUtil.Interface(
+    //                 from_str.nextToken(),
+    //                 from_str.nextToken()
+    //             );
+                
+    //             VeriBoostUtil.Interface to_Interface = new VeriBoostUtil.Interface(
+    //                 to_str.nextToken(),
+    //                 to_str.nextToken()
+    //             );
+                
+    //             VeriBoostUtil.Link link = new VeriBoostUtil.Link(from_Interface, to_Interface);
+    //             this.links.add(link);
+    //         }
+    //     }
+    // }
     
     public void addLinks(String srcDevice, String dstDevice) {
         this.links.add(new VeriBoostUtil.Link(new VeriBoostUtil.Interface(srcDevice, "none"), new VeriBoostUtil.Interface(dstDevice, "none")));
