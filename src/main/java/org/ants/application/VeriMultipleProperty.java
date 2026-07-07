@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.stream.Collectors;
+
 import org.ants.VeriBoost;
 import org.ants.VeriBoostUtil.SimpleLink;
 
@@ -27,6 +28,7 @@ public class VeriMultipleProperty {
 
         // Step 1: Load the network topology.
         readTopologyFile(filePath).forEach(link -> veriBoost.addLinks(link.dst_name, link.src_name));
+        readTopologyFile(filePath).forEach(link -> veriBoost.addLinks(link.src_name, link.dst_name));
 
         // Step 2: Construct point biconnected components.
         veriBoost.buildComponent();
@@ -54,11 +56,9 @@ public class VeriMultipleProperty {
         
     static public List<String> getAllDirectoryNames(String directoryPath) throws IOException {
         Path basePath = Paths.get(directoryPath);
-        
         if (!Files.exists(basePath) || !Files.isDirectory(basePath)) {
             throw new IOException("Directory does not exist: " + directoryPath);
         }
-        
         try (java.util.stream.Stream<Path> stream = Files.list(basePath)) {
             return stream
                 .filter(Files::isDirectory)  // Only directories, not files
@@ -71,7 +71,6 @@ public class VeriMultipleProperty {
     static public List<SimpleLink> readPropertyFile(String datasetName, int propertyNumber) throws IOException {
         List<SimpleLink> properties = new ArrayList<>();
         Path filePath = Paths.get("dataset", datasetName, "reaches.txt");
-
         int i = 0;
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath.toFile()))) {
             String line;
@@ -83,14 +82,12 @@ public class VeriMultipleProperty {
                 properties.add(link);
             }
         }
-        
         return properties;
     }
 
     static public HashSet<SimpleLink> readTopologyFile(String datasetName) throws IOException {
         HashSet<SimpleLink> links = new HashSet<>();
         Path filePath = Paths.get("dataset", datasetName, "topology.txt");
-
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath.toFile()))) {
             String line;
             while ((line = reader.readLine()) != null) {
@@ -100,8 +97,6 @@ public class VeriMultipleProperty {
                 links.add(link);
             }
         }
-        
         return links;
     }
-
 }

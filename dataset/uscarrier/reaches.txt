@@ -1,3 +1,5 @@
+3	ellijay	sylva
+3	greensboro	atlanta
 3	yemassee	augusta
 3	augusta	yemassee
 3	columbia	augusta

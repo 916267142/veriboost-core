@@ -6,25 +6,18 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Example",
+            "name": "VeriSingleProperty",
             "request": "launch",
-            "mainClass": "org.ants.application.Example",
+            "mainClass": "org.ants.application.VeriSingleProperty",
             "projectName": "veriboost-core",
-            "args": "/home/simple/workspace/veriboost-workspace/veriboost-core/src/test/resources/topology.txt panamattcity raleigh"
+            "args": "uscarrier atlanta greensboro"
         },
         {
             "type": "java",
-            "name": "CalculateSpace",
+            "name": "VeriMultipleProperty",
             "request": "launch",
-            "mainClass": "org.ants.application.CalculateSpace",
+            "mainClass": "org.ants.application.VeriMultipleProperty",
             "projectName": "veriboost-core",
-            "args": "arnes 3"
-        },
-        {
-            "type": "java",
-            "name": "Simulation",
-            "request": "launch",
-            "mainClass": "org.ants.application.Simulation",
-            "projectName": "veriboost-core"
+            "args": "uscarrier 3"
         }
 }
