@@ -1,5 +1,3 @@
-3	ellijay	sylva
-3	greensboro	atlanta
 3	yemassee	augusta
 3	augusta	yemassee
 3	columbia	augusta
@@ -4032,8 +4030,8 @@
 1	kinston	tallahassee
 1	atlanta	greenvilleid16
 1	dothan	augusta
-1	sumter	adel
 1	hawkinsville	kershaw
+1	sumter	adel
 1	charlestonid102	baldwin
 1	adel	hawkinsville
 1	adel	toccoa
@@ -7291,8 +7289,8 @@
 1	warwick	nodeid82
 1	lexingtonid33	tallahassee
 1	kernersville	waycross
-1	hinesville	blountstown
 1	yemassee	waynesboro
+1	hinesville	blountstown
 1	walterboro	kershaw
 1	lakettcity	crestview
 1	rocktthill	levelttcross
@@ -15125,8 +15123,8 @@
 0	martinsville	peertoccoa15
 0	bland	peerblitchton3
 0	calhoun	lynchburg
-0	franklin	peerandrews1
 0	hagerstown	raleigh
+0	franklin	peerandrews1
 0	brysonttcity	fayetteville
 0	toccoa	peerblitchton3
 0	rocktthill	ellijay
@@ -18311,8 +18309,8 @@
 0	peernodeid8614	hiltontthead
 0	carlisle	brysonttcity
 0	franklin	waynesboro
-0	roanoke	calhoun
 0	hiawassee	maretta
+0	roanoke	calhoun
 0	peerblitchton3	cherokee
 0	brysonttcity	peerchristiansburg5
 0	andrews	lynchburg
@@ -19290,8 +19288,8 @@
 0	newttbern	bristol
 0	maitland	lexington
 0	peernodeid8512	rockyttmountid11
-0	franklin	jacksonville
 0	chamersburg	birmingham
+0	franklin	jacksonville
 0	gettysburg	ringgold
 0	highttpoint	peerjacksonvilleid58
 0	hinesville	martinsburg
@@ -19859,8 +19857,8 @@
 0	peerdouglas6	greenville
 0	murphy	myrtlettbeach
 0	hinesville	bluefield
-0	peerchester4	peerdouglas6
 0	brysonttcity	charleston
+0	peerchester4	peerdouglas6
 0	ashland	canton
 0	clemson	winchester
 0	pensacola	greenwood
@@ -20821,8 +20819,8 @@
 0	nodeid79	raleigh
 0	sylva	edinburg
 0	winterttpark	peeralbany0
-0	rockyttmount	ellijay
 0	chamersburg	myrtlettbeach
+0	rockyttmount	ellijay
 0	maitland	nodeid79
 0	maitland	nodeid78
 0	brysonttcity	herndon
@@ -22012,8 +22010,8 @@
 0	crestview	martinsburg
 0	bland	peerdouglas6
 0	dalton	chester
-0	peerchester4	myrtlettbeach
 0	peerandrews1	chattanooga
+0	peerchester4	myrtlettbeach
 0	brysonttcity	warrenton
 0	chamersburg	leesburg
 0	edinburg	charlottesville
@@ -24252,8 +24250,8 @@
 0	jacksonville	winchester
 0	gettysburg	cartersville
 0	burlington	fortttmyers
-0	roanoke	abingdon
 0	franklin	crestview
+0	roanoke	abingdon
 0	edinburg	calhoun
 0	salisbury	peerjacksonvilleid58
 0	bluefield	montgomery
@@ -24496,8 +24494,8 @@
 0	blountstown	ocala
 0	rocktthill	andrews
 0	levelttcross	anderson
-0	rockyttmount	greenwood
 0	franklin	yemassee
+0	rockyttmount	greenwood
 0	calhoun	newttbern
 0	peerkingsport9	martinsville
 0	staunton	peerfayetteville7
@@ -26686,8 +26684,8 @@
 0	avonttpark	concord
 0	warrenton	peerlevelttcross10
 0	warrenton	charlestonid102
-0	waycross	peerfayetteville7
 0	asheville	nodeid79
+0	waycross	peerfayetteville7
 0	asheville	nodeid78
 0	brysonttcity	dalton
 0	montgomery	hayesville
@@ -27322,8 +27320,8 @@
 0	hartwell	chattanooga
 0	montgomery	abingdon
 0	leslie	peerblitchton3
-0	leslie	peerkingsport9
 0	cherokee	peerandrews1
+0	leslie	peerkingsport9
 0	leesburgid143	columbus
 0	abingdon	marion
 0	peerjacksonvilleid58	ellijay
@@ -28207,8 +28205,8 @@
 0	johnsonttcity	staunton
 0	lancaster	avonttpark
 0	ashburn	harrisonburg
-0	ocala	orangeburg
 0	greensboro	martinsburg
+0	ocala	orangeburg
 0	greenville	peerblitchton3
 0	wytheville	winterttpark
 0	nodeid82	peerlevelttcross10
@@ -28891,8 +28889,8 @@
 0	winchester	maretta
 0	nodeid79	athens
 0	greensboro	peerchester4
-0	peerchester4	leslie
 0	brysonttcity	edinburg
+0	peerchester4	leslie
 0	herndon	leesburgid143
 0	murphy	levelttcross
 0	jacksonvilleid5	youngttharris
@@ -29561,8 +29559,8 @@
 0	hickorytttavern	hagerstown
 0	ashland	chamersburg
 0	winterttpark	hartwell
-0	leesburgid143	martinsburg
 0	burlington	peerblairsville2
+0	leesburgid143	martinsburg
 0	peerchester4	hayesville
 0	edinburg	nodeid86
 0	peernodeid8512	cherokee

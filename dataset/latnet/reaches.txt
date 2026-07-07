@@ -547,8 +547,8 @@
 0	skriveri	balvi
 0	jekabpils	preili
 0	broceni	kalnciems
-0	ragona	aizpute
 0	vircava	jurmala
+0	ragona	aizpute
 0	riga	vircava
 0	pociems	platone
 0	zilupe	karsava
@@ -886,8 +886,8 @@
 0	livani	ventspits
 0	cibla	liepaja
 0	kegums	strenci
-0	ragona	aloja
 0	vircava	bauska
+0	ragona	aloja
 0	zvigzdene	ogre
 0	broceni	ogre
 0	baldone	vangazi
@@ -1158,8 +1158,8 @@
 0	grobina	salagriva
 0	talsi	salagriva
 0	sigulda	kekava
-0	livberze	aizpute
 0	baldone	dobele
+0	livberze	aizpute
 0	jumprava	jurmala
 0	pusmucova	dobele
 0	rezekne	kegums
@@ -1449,8 +1449,8 @@
 0	viesite	salagriva
 0	jurmala	dobele
 0	platone	aizkroukle
-0	zvigzdene	jurmala
 0	preili	auce
+0	zvigzdene	jurmala
 0	zilupe	tukums
 0	zilupe	liepupe
 0	rujiena	broceni
@@ -2258,8 +2258,8 @@
 0	sigulda	livani
 0	cibla	ludza
 0	sigulda	platone
-0	salaspils	balvi
 0	gulbene	baldone
+0	salaspils	balvi
 0	broceni	livberze
 0	geant2	kraslava
 0	saldus	salagriva
@@ -2568,8 +2568,8 @@
 0	peerbalvi0	vircava
 0	vircava	lielvarde
 0	kegums	bauska
-0	malnava	kapsede
 0	jelgava	gulbene
+0	malnava	kapsede
 0	mazsalaca	vangazi
 0	saldus	carnikava
 0	kalnciems	jekabpils
@@ -3036,10 +3036,10 @@
 0	zilupe	jelgava
 0	ragona	auce
 0	balvi	liepupe
-0	jekabpils	aizpute
 0	adazi	jumprava
-0	jekabpils	pociems
+0	jekabpils	aizpute
 0	adazi	skriveri
+0	jekabpils	pociems
 0	mazsalaca	pusmucova
 0	ogre	bauska
 0	jekabpils	cibla
@@ -3657,8 +3657,8 @@
 0	malnava	salaspils
 0	jekabpils	ledurga
 0	talsi	grobina
-0	zvigzdene	viesite
 0	daugapils	vircava
+0	zvigzdene	viesite
 0	auce	rezekne
 0	balvi	zilupe
 0	skriveri	aloja
@@ -3905,8 +3905,8 @@
 0	aizkroukle	kegums
 0	jekabpils	bauska
 0	dobele	vijkene
-0	zvigzdene	kekava
 0	preili	geant2
+0	zvigzdene	kekava
 0	malnava	eleja
 0	geant2	valmiera
 0	karsava	mazsalaca
@@ -3941,8 +3941,8 @@
 0	iecava	kalnciems
 0	karsava	riga
 0	talsi	geant2
-0	zvigzdene	valmiera
 0	rezekne	jurmala
+0	zvigzdene	valmiera
 0	vircava	cibla
 0	salagriva	iecava
 0	iecava	vircava
@@ -4071,8 +4071,8 @@
 0	peerbalvi0	broceni
 0	ikskile	peerbalvi0
 0	eleja	strenci
-0	jekabpils	livberze
 0	adazi	ulbroka
+0	jekabpils	livberze
 0	dobele	kapsede
 0	ragona	tukums
 0	lielvarde	tukums

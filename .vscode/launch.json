@@ -10,6 +10,15 @@
             "request": "launch",
             "mainClass": "org.ants.Main",
             "projectName": "veriboost-core",
-            "args": "src/test/resources/uscarrier.txt atlanta greensboro"
+            "args": "dataset/uscarrier 3"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "org.ants.Main",
+            "projectName": "veriboost-core",
+            "args": "dataset/uscarrier atlanta greensboro"
         }
+    ]
 }

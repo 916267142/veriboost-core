@@ -170,8 +170,8 @@
 1	slovenjttgradec	koper
 1	koper	krsko
 1	dravograd	divaca
-1	gornjattradgona	senozece
 1	kamnik	murskattsobota
+1	gornjattradgona	senozece
 1	tolmin	ljubljana
 1	ljutomer	kranj
 1	senozece	dravograd
@@ -371,8 +371,8 @@
 1	ajdovscina	dravograd
 1	rogasjattslatina	ljutomer
 1	senozece	radenci
-1	radenci	gornjattradgona
 1	trbovlje	krsko
+1	radenci	gornjattradgona
 1	novottmesto	krsko
 1	slovenskattbistrica	ptuj
 1	novottmesto	slovenjttgradec
@@ -590,8 +590,8 @@
 1	kranj	novottmesto
 1	senozece	krsko
 1	radenci	izola
-1	gornjattradgona	ptuj
 1	kamnik	maribor
+1	gornjattradgona	ptuj
 1	koper	kovevje
 1	divaca	senozece
 1	portoroz	kranj
@@ -605,8 +605,8 @@
 1	dravograd	murskattsobota
 1	portoroz	murskattsobota
 1	lasko	bled
-1	murskattsobota	ajdovscina
 1	kovevje	tolmin
+1	murskattsobota	ajdovscina
 1	slovenskattbistrica	lasko
 1	postojna	ormoz
 1	izola	novattgorica

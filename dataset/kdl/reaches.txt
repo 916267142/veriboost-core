@@ -3728,8 +3728,8 @@
 2	lexington	kendalville
 2	thomasville	wytheville
 2	jacksonid434	nodeid296
-2	richttsquare	elkhart
 2	bristol	richmondid293
+2	richttsquare	elkhart
 2	owensboro	barnesville
 2	knoxville	shepherdsville
 2	hagerstown	dallas
@@ -10734,8 +10734,8 @@
 2	cottondale	oxford
 2	penningtonttgap	elkhart
 2	springfield	conway
-2	richttsquare	glenttlyn
 2	wytheville	tallahassee
+2	richttsquare	glenttlyn
 2	lattcrosee	bloomington
 2	dayton	johnstown
 2	barbourville	delaware
@@ -33434,8 +33434,8 @@
 1	rhinelander	xenia
 1	rochelle	demopolis
 1	collinwood	bentonid610
-1	mountttpleasant	plymouth
 1	kalamazoo	bentonid267
+1	mountttpleasant	plymouth
 1	ruston	galesburg
 1	newttlondon	tuscaloosa
 1	columbiaid471	effingham
@@ -39195,8 +39195,8 @@
 1	pottstown	morgantown
 1	lenoir	decaturid320
 1	wabash	scalesttmound
-1	rhinelander	manchester
 1	sellersburg	duluth
+1	rhinelander	manchester
 1	oshkosh	bremen
 1	dexter	kansasttcity
 1	dayton	northttvernon
@@ -40689,8 +40689,8 @@
 1	jacksonville	franklinid253
 1	logan	nodeid634
 1	logan	nodeid635
-1	seymour	skokie
 1	beckley	brookfield
+1	seymour	skokie
 1	logan	nodeid636
 1	philadelphia	parkersburg
 1	smithville	holland
@@ -41258,8 +41258,8 @@
 1	johnstown	fortttworth
 1	bigttrapids	dixon
 1	wabasha	wolcott
-1	mattoon	london
 1	batonttrouge	carmi
+1	mattoon	london
 1	russellville	birmingham
 1	morrilton	ames
 1	shelbyville	lincolton
@@ -43497,8 +43497,8 @@
 1	loganid180	johnsonttcity
 1	columbiattcity	atlantaid697
 1	lebanonid751	athensid283
-1	rushville	marshallid618
 1	middletown	leitchfield
+1	rushville	marshallid618
 1	emporia	minneapolis
 1	lebanonid751	athensid279
 1	christiansburg	nodeid343
@@ -44394,8 +44394,8 @@
 1	natchez	charleston
 1	alabaster	rushville
 1	chippenwattfalls	lattfayette
-1	lexington	scalesttmound
 1	portsmouth	nodeid343
+1	lexington	scalesttmound
 1	slidell	americus
 1	montrose	collierville
 1	portsmouth	nodeid345
@@ -51590,8 +51590,8 @@
 1	dickson	greenwood
 1	rushville	newttcastleid415
 1	columbiaid471	danvilleid290
-1	anniston	winona
 1	greensburgid593	reedburg
+1	anniston	winona
 1	norton	aurora
 1	owatonna	marshall
 1	beaverttdam	owatonna
@@ -61931,8 +61931,8 @@
 1	aurora	michiganttcity
 1	nodeid339	shelbyvilleid492
 1	seguin	shepherdsville
-1	marissa	clevelandid403
 1	hazard	huntsville
+1	marissa	clevelandid403
 1	neosho	nodeid296
 1	christiansburg	arkdelphia
 1	wabasha	dickson
@@ -65215,8 +65215,8 @@
 1	martinsville	athensid517
 1	danvilleid734	marquette
 1	madison	scalesttmound
-1	philadelphia	northttvernon
 1	demopolis	portage
+1	philadelphia	northttvernon
 1	hyden	ashburn
 1	batesville	rogers
 1	kankakee	montgomery
@@ -65920,8 +65920,8 @@
 1	charleston	portage
 1	mcgregor	cadillac
 1	rhinelander	hollyttsprings
-1	schaumburg	clymer
 1	nashville	libertyville
+1	schaumburg	clymer
 1	batonttrouge	granitettfalls
 1	stttlouis	jacksonville
 1	johnstown	princetonid731
@@ -66069,8 +66069,8 @@
 1	griffin	lebanonid132
 1	loogootee	tallulah
 1	minden	joliet
-1	nodeid347	augusta
 1	menomonee	galesburg
+1	nodeid347	augusta
 1	natchez	florenceid274
 1	philadelphiaid349	hattiesburg
 1	manassas	danvilleid290
@@ -67254,8 +67254,8 @@
 1	skokie	abingdon
 1	richmondid293	escanaba
 1	garyid240	cleveland
-1	nodeid210	hagerstown
 1	evendale	boonville
+1	nodeid210	hagerstown
 1	slidell	winona
 1	oakttgrove	oakttridge
 1	santtmarcos	sandusky
@@ -69064,8 +69064,8 @@
 1	newton	smithville
 1	henderson	quincy
 1	newaygo	richmondid293
-1	watersmeet	peoria
 1	sellersburg	loogootee
+1	watersmeet	peoria
 1	anniston	sheboygan
 1	ricettlake	nodeid269
 1	ricettlake	nodeid268
@@ -70738,8 +70738,8 @@
 1	corydon	nodeid343
 1	corydon	nodeid345
 1	corydon	nodeid347
-1	oxfordid687	hollyttsprings
 1	grandtthaven	london
+1	oxfordid687	hollyttsprings
 1	fairfield	nodeid632
 1	clinton	washingtonid367
 1	fairfield	nodeid634
@@ -74212,8 +74212,8 @@
 1	madisonville	jasper
 1	moline	enteprise
 1	kingsport	clevelandid403
-1	seymour	fremont
 1	beckley	scalesttmound
+1	seymour	fremont
 1	peru	waco
 1	northttmanchester	northbrook
 1	minneapolis	morganton
@@ -74278,8 +74278,8 @@
 1	marion	marshfield
 1	smyrna	reading
 1	tupolo	tallulah
-1	lattcrosee	forrestttcity
 1	clinton	woodville
+1	lattcrosee	forrestttcity
 1	berea	centralia
 1	tunica	paris
 1	franklinid253	freeportid750
@@ -77274,8 +77274,8 @@
 1	manchester	bardsdtown
 1	richttsquare	wilson
 1	sturtevant	york
-1	windsor	nevada
 1	bristol	warrensburg
+1	windsor	nevada
 1	hopkinsville	bowlingttgreenid250
 1	montevideo	greensburgid593
 1	richlands	tulsa
@@ -79764,8 +79764,8 @@
 1	nodeid137	norton
 1	jefferson	clinton
 1	pikeville	bentonid267
-1	waxahachie	springfieldid712
 1	norristtcity	starkville
+1	waxahachie	springfieldid712
 1	evendale	connersville
 1	lawrenceburg	fortttvalley
 1	martinsville	mtttvernon
@@ -83518,8 +83518,8 @@
 1	washingtonid367	racine
 1	rushville	cairo
 1	akron	demopolis
-1	philadelphia	lancaster
 1	greensboroid558	atlanta
+1	philadelphia	lancaster
 1	hagerstown	hertford
 1	batesville	augusta
 1	bentonville	montevideo
@@ -83920,8 +83920,8 @@
 1	glasgow	newton
 1	paducah	seguin
 1	charleston	arlington
-1	pottstown	forrestttcity
 1	linden	burlington
+1	pottstown	forrestttcity
 1	warsawid727	fredericksburg
 1	xenia	nodeid390
 1	joliet	cadillac
@@ -88447,8 +88447,8 @@
 1	beaverttdamid344	mcleansboro
 1	smithville	nodeid269
 1	eastlake	salem
-1	elgin	siouxttfalls
 1	huntington	covington
+1	elgin	siouxttfalls
 1	ludington	delaware
 1	smithville	nodeid268
 1	bristol	bloomingtonid740
@@ -89092,8 +89092,8 @@
 1	wabasha	winchesterid572
 1	garyid243	washingtonid367
 1	pensacola	logan
-1	clarksville	batesville
 1	ashland	martinsburg
+1	clarksville	batesville
 1	loganid180	hamilton
 1	peru	anderson
 1	paoli	shepherdsville
@@ -89775,8 +89775,8 @@
 1	anniston	ames
 1	toledo	grandttrapids
 1	temple	granitettfalls
-1	lattcrosee	pascagoula
 1	martinsvilleid200	baltimore
+1	lattcrosee	pascagoula
 1	menomonee	newport
 1	lebanonid132	nodeid338
 1	valparaiso	plainfield
@@ -90649,8 +90649,8 @@
 1	cookeville	superior
 1	harrisburgid362	macomb
 1	battlettcreek	bowle
-1	waco	smithville
 1	eldorado	jeffersonttcity
+1	waco	smithville
 1	leesburg	effingham
 1	demopolis	oakttridge
 1	westttfrankfort	manassas
@@ -91302,8 +91302,8 @@
 1	wheeling	chesapeake
 1	elizabethtttown	bentonttharbor
 1	memphis	granitettfalls
-1	newttcastle	wilson
 1	hamilton	dothan
+1	newttcastle	wilson
 1	murphysboro	manchesterid679
 1	afton	dettfuniakttsprings
 1	oshkosh	pottstown
@@ -91427,8 +91427,8 @@
 1	dallas	nodeid210
 1	cullman	rogers
 1	meridian	greenwood
-1	london	greensburg
 1	paoli	pinettbluff
+1	london	greensburg
 1	fayetteville	charlottesville
 1	jacksonvilleid684	franklin
 1	farmville	atlanta
@@ -92308,8 +92308,8 @@
 1	sandusky	alton
 1	allendale	greenville
 1	peoria	florenceid274
-1	mtttsterling	lawton
 1	effingham	oshkosh
+1	mtttsterling	lawton
 1	oakttridge	winstondashsalem
 1	kentwood	carmi
 1	pikeville	malvern
@@ -97615,8 +97615,8 @@
 1	folkston	boone
 1	baraboo	cottondale
 1	charlotte	waxahachie
-1	clarksville	smyrna
 1	ashland	middletown
+1	clarksville	smyrna
 1	lafayette	sellersburg
 1	westttchicago	shelbyvilleid596
 1	davenport	portage
@@ -99700,8 +99700,8 @@
 1	afton	philadelphiaid349
 1	indianapolis	columbusid700
 1	norman	granitettfalls
-1	paris	norristtcity
 1	bentonid610	clanton
+1	paris	norristtcity
 1	greensboroid558	niles
 1	batesville	charlottesville
 1	richmond	nodeid600
@@ -101993,8 +101993,8 @@
 1	redttwing	owensboro
 1	newttorleans	skokie
 1	smithville	elizabethtttown
-1	flatonia	folkston
 1	winchester	russellvilleid401
+1	flatonia	folkston
 1	athensid279	dettfuniakttsprings
 1	jonesboro	tuskagee
 1	nodeid343	malvern
@@ -103534,8 +103534,8 @@
 1	dettpere	littlettfalls
 1	cantonid521	pikeville
 1	philadelphiaid349	rochester
-1	willmar	lebanonid751
 1	london	morganton
+1	willmar	lebanonid751
 1	jefferson	gary
 1	pascagoula	nevada
 1	shreveport	cleveland
@@ -106030,8 +106030,8 @@
 1	clymer	jonesboro
 1	westttfrankfort	lakettcharles
 1	smyrna	wilmington
-1	paris	denton
 1	duluth	greenvilleid685
+1	paris	denton
 1	connersville	neenah
 1	freeport	henderson
 1	springfieldid712	fayetteville
@@ -108817,8 +108817,8 @@
 1	bowlingttgreen	siouxttfalls
 1	lakettcharles	cartersville
 1	frankfortid491	remington
-1	berea	madisonid315
 1	frenchttlick	greenttbay
+1	berea	madisonid315
 1	troy	xenia
 1	appleton	freeportid750
 1	greenvilleid685	westttmemphis
@@ -109873,8 +109873,8 @@
 1	pineville	sunttprarie
 1	hyden	salem
 1	harrisonville	dexter
-1	michiganttcity	litchfield
 1	elgin	willmar
+1	michiganttcity	litchfield
 1	fortttworth	seguin
 1	elktor	greenville
 1	shelbyville	newport
@@ -114451,8 +114451,8 @@
 1	hollyttsprings	holland
 1	lawton	nodeid604
 1	tuskagee	alexanderttcity
-1	nodeid347	rushville
 1	milwaukee	columbiaid471
+1	nodeid347	rushville
 1	sellersburg	janesville
 1	bowlingttgreen	mcminnville
 1	athensid517	paducah
@@ -118117,8 +118117,8 @@
 1	elktor	nodeid199
 1	newttlondonid380	grayling
 1	kentwood	dettkalb
-1	mountttvernon	london
 1	austin	byronttcenter
+1	mountttvernon	london
 1	manchester	willmar
 1	marshall	rogersville
 1	covingtonid322	clarksvilleid402
@@ -118175,8 +118175,8 @@
 1	bentonid267	loretto
 1	wickliffe	hamburg
 1	franklinid203	nodeid269
-1	wabasha	oaklandttcity
 1	franklinid203	nodeid268
+1	wabasha	oaklandttcity
 1	bigttrapids	menomonee
 1	nodeid628	manitowoc
 1	marshallid618	bowlingttgreen
@@ -124438,8 +124438,8 @@
 1	nodeid600	siouxttfalls
 1	granitettfalls	quincy
 1	holland	pipestone
-1	southttbend	albertville
 1	huntington	bentonid267
+1	southttbend	albertville
 1	florence	garyid243
 1	grayling	wilson
 1	huntsville	dothan
@@ -124488,8 +124488,8 @@
 1	brookhaven	athensid283
 1	bigttrapids	fortttsmith
 1	macon	escanaba
-1	willmar	franklinid606
 1	paoli	muskegon
+1	willmar	franklinid606
 1	joliet	granitettfalls
 1	clanton	superior
 1	forrestttcity	nodeid296
@@ -126261,9 +126261,9 @@
 1	centralia	ricettlake
 1	temple	peoria
 1	dodgeville	menomonee
+1	paoli	decatur
 1	london	nevada
 1	london	roanoke
-1	paoli	decatur
 1	portttclinton	effingham
 1	escanaba	hammond
 1	hyden	stttpaul
@@ -128978,8 +128978,8 @@
 1	ludington	ashland
 1	mattoon	elktor
 1	mtttsterling	hancock
-1	dickson	springfieldid745
 1	morehead	skokie
+1	dickson	springfieldid745
 1	elkhart	alexanderttcity
 1	nodeid604	afton
 1	indianapolis	zanesville
@@ -130119,8 +130119,8 @@
 1	monroe	effingham
 1	mccomb	pascagoula
 1	harrisburg	lakettcity
-1	lattcrosee	augusta
 1	martinsvilleid200	estill
+1	lattcrosee	augusta
 1	racine	rochelle
 1	seguin	brookhaven
 1	rogersville	fortttwayne
@@ -130498,8 +130498,8 @@
 1	dettpere	vermilion
 1	hopkinsville	dexter
 1	leesville	dallas
-1	marissa	loretto
 1	hyden	marengo
+1	marissa	loretto
 1	pittsburgh	mooresville
 1	norman	pineville
 1	bentonid267	kankakee
@@ -132578,8 +132578,8 @@
 1	wilson	davenport
 1	edwardsville	nodeid636
 1	edwardsville	nodeid635
-1	garyid243	minden
 1	huntington	kokomo
+1	garyid243	minden
 1	bigttrapids	beaverttdam
 1	fairfield	lafayette
 1	brainerd	westttchicago
@@ -135502,8 +135502,8 @@
 1	marianna	princetonid731
 1	pottstown	tomah
 1	nodeid83	brookhaven
-1	indianapolis	liberty
 1	clinton	enteprise
+1	indianapolis	liberty
 1	decaturid414	bloomingtonid740
 1	chattanooga	scotlandttneck
 1	starkville	mtttsterling
@@ -136284,8 +136284,8 @@
 1	niles	dayton
 1	batesville	norristtcity
 1	princeton	longview
-1	michiganttcity	wichitattfalls
 1	ashland	warren
+1	michiganttcity	wichitattfalls
 1	redttwing	jennings
 1	jefferson	manchesterid679
 1	nodeid390	lawrenceburg
@@ -136808,8 +136808,8 @@
 1	greenville	garyid243
 1	dothan	warsawid727
 1	covingtonid322	superior
-1	greenville	garyid240
 1	milwaukee	ruston
+1	greenville	garyid240
 1	warrensburg	aurora
 1	evendale	windsor
 1	carbondale	searcy
@@ -138039,8 +138039,8 @@
 1	somerset	newttcastle
 1	martinsburg	warrensburg
 1	stttpaul	russellville
-1	indianapolis	dubuque
 1	clinton	seguin
+1	indianapolis	dubuque
 1	columbusid715	westttfrankfort
 1	menomonee	nodeid83
 1	leesville	gadsden
@@ -142470,8 +142470,8 @@
 1	auburn	sedalia
 1	nodeid69	oneonta
 1	berea	marissa
-1	mariettaid567	niles
 1	norton	forest
+1	mariettaid567	niles
 1	fredericksburg	collinwood
 1	johnstown	mtttvernon
 1	albertttlea	cartersville
@@ -144625,8 +144625,8 @@
 1	talledega	beaverttdam
 1	smithville	northttvernon
 1	kingsport	brookfield
-1	nashville	granitettfalls
 1	morehead	ashland
+1	nashville	granitettfalls
 1	findlay	kendalville
 1	thomaston	auburnid467
 1	marshfield	minneapolis
@@ -151285,8 +151285,8 @@
 1	guntersville	frontttroyal
 1	repton	cedarttrapids
 1	nodeid392	sturtevant
-1	connersville	norman
 1	hamilton	centerville
+1	connersville	norman
 1	pascagoula	bedford
 1	kankakee	capettgirardeau
 1	hope	dothan
@@ -153932,8 +153932,8 @@
 1	knoxville	luverne
 1	columbusid715	portttclinton
 1	dettpere	greenwood
-1	bloomington	naperville
 1	davenport	liberty
+1	bloomington	naperville
 1	mckenzie	milan
 1	rochester	greenwood
 1	nodeid604	austinid598
@@ -156631,8 +156631,8 @@
 1	gulfport	muncie
 1	paris	franklinid606
 1	marietta	burlington
-1	hamburg	mcgregor
 1	dallas	jasperid555
+1	hamburg	mcgregor
 1	crestview	shelbyville
 1	bryan	washingtonid367
 1	danville	morgantown
@@ -159729,8 +159729,8 @@
 1	lattsalle	nodeid632
 1	texarkana	arkdelphia
 1	milan	fondttduttlac
-1	evansville	macon
 1	worthington	carmi
+1	evansville	macon
 1	franklinid606	montgomery
 1	dexter	jacksonvilleid684
 1	lattsalle	nodeid634
@@ -160203,8 +160203,8 @@
 1	flatonia	waukesha
 1	charlotte	rolla
 1	jacksonvilleid684	holland
-1	willmar	savannah
 1	paoli	roanoke
+1	willmar	savannah
 1	dettfuniakttsprings	middletown
 1	clevelandid403	glasgow
 1	nodeid345	boone
@@ -163622,8 +163622,8 @@
 1	marquette	slidell
 1	newaygo	milwaukee
 1	indianapolis	piggott
-1	martinsvilleid200	allendale
 1	davenport	seymour
+1	martinsvilleid200	allendale
 1	albany	tulsa
 1	athens	marion
 1	ashburn	dubuque
@@ -163739,8 +163739,8 @@
 1	lebanonid595	greencastle
 1	carmi	harrisonville
 1	leesville	scottsburg
-1	parkersburg	moline
 1	lebanonid351	chippenwattfalls
+1	parkersburg	moline
 1	montrose	dettpere
 1	sealy	alton
 1	annttarbor	harrisburg
@@ -164367,8 +164367,8 @@
 1	freeport	mooresville
 1	toledo	desttmoines
 1	springfieldid745	madisonville
-1	garyid243	appleton
 1	huntington	shreveport
+1	garyid243	appleton
 1	rochester	bigttrapids
 1	keysville	westttfrankfort
 1	dallas	brainerd
@@ -168930,8 +168930,8 @@
 1	columbiaid471	greenwood
 1	jesup	dalton
 1	cairo	macquoketa
-1	talledega	luverne
 1	johnstown	newttlondon
+1	talledega	luverne
 1	ashtabula	cullman
 1	louisville	chillicothe
 1	americus	athensid517
@@ -175088,8 +175088,8 @@
 1	montrose	cottondale
 1	cairo	beloit
 1	barbourville	charlottesville
-1	watersmeet	newttcastle
 1	louisville	martin
+1	watersmeet	newttcastle
 1	petersburgid166	bloomington
 1	arlington	estill
 1	manchesterid679	fredericksburg
@@ -176135,8 +176135,8 @@
 1	chicago	minden
 1	bedford	desttmoines
 1	joliet	union
-1	michiganttcity	paoli
 1	huntington	troy
+1	michiganttcity	paoli
 1	union	lakettcharles
 1	centralia	loganid180
 1	clarksville	elizabethtttown
@@ -176428,8 +176428,8 @@
 1	woodville	barnesville
 1	madisonid315	carrolltonid693
 1	watersmeet	wilmington
-1	franklinid203	nodeid83
 1	davenport	ravenswood
+1	franklinid203	nodeid83
 1	eldorado	parkersburg
 1	denton	duluth
 1	danville	peru
@@ -176881,8 +176881,8 @@
 1	brookhaven	traversettcity
 1	natchitoches	austinid598
 1	greencastle	johnsonttcity
-1	parkersburg	keysville
 1	wytheville	loganid180
+1	parkersburg	keysville
 1	arlington	cantonid521
 1	scotlandttneck	anniston
 1	flatonia	carbondale
@@ -182107,8 +182107,8 @@
 1	frankfort	corbin
 1	keysville	nacagdoches
 1	starkville	marion
-1	joplin	arkdelphia
 1	wichitattfalls	frankfortid491
+1	joplin	arkdelphia
 1	hancock	dixon
 1	marissa	minneapolis
 1	springfieldid745	annttarbor
@@ -182995,8 +182995,8 @@
 1	collinsville	chambersburg
 1	garyid243	jacksonid519
 1	traversettcity	natchitoches
-1	collinsville	jennings
 1	selma	hagerstown
+1	collinsville	jennings
 1	harrisburg	seymour
 1	marshall	masonttcity
 1	granitettfalls	lawrenceburg
@@ -184665,8 +184665,8 @@
 1	kansasttcity	folkston
 1	westttpoint	montevideo
 1	nodeid64	sheboygan
-1	indianapolis	superior
 1	davenport	bigttrapids
+1	indianapolis	superior
 1	baraboo	galesburg
 1	louisvilleid694	baraboo
 1	perry	griffin
@@ -184792,8 +184792,8 @@
 1	ashburn	plymouth
 1	leesburg	bloomingtonid740
 1	warrensburg	muskogee
-1	mayfield	franklinid253
 1	hotttsprings	owensburg
+1	mayfield	franklinid253
 1	morgantown	westttpoint
 1	cleveland	natchitoches
 1	stttpaul	liberty
@@ -187502,8 +187502,8 @@
 1	greenwoodid641	ironttmountain
 1	houston	goshen
 1	macomb	hammond
-1	mayfield	cleveland
 1	mcgregor	neenah
+1	mayfield	cleveland
 1	dettpere	plainfield
 1	holland	marshfield
 1	sandusky	princeton
@@ -191505,8 +191505,8 @@
 1	oaklandttcity	libertyville
 1	culpeper	manchesterid679
 1	manassas	bluefield
-1	toledo	mountttunion
 1	richmondid293	richmond
+1	toledo	mountttunion
 1	loganid180	dayton
 1	bentonville	mountttvernon
 1	tyler	youngstown
@@ -192886,8 +192886,8 @@
 1	stttcloud	natchez
 1	spooner	pipestone
 1	evendale	winchesterid572
-1	wabasha	albertville
 1	bloomington	ruston
+1	wabasha	albertville
 1	griffin	morehead
 1	clinton	clevelandid403
 1	bloomingtonid740	washingtonttdc
@@ -193987,8 +193987,8 @@
 1	manchesterid591	rogers
 1	jennings	manchester
 1	westttfrankfort	hattiesburg
-1	southttbend	lebanonid132
 1	schaumburg	annttarbor
+1	southttbend	lebanonid132
 1	clarksvilleid155	greensburgid593
 1	masonttcity	newttcastle
 1	northttmanchester	marianna
@@ -198071,8 +198071,8 @@
 1	hopkinsville	citronelle
 1	norman	goshen
 1	pascagoula	niles
-1	danvilleid290	tomah
 1	decaturid320	allendale
+1	danvilleid290	tomah
 1	garyid243	paxton
 1	abingdon	hopkinsville
 1	leesttsummit	johnsonttcity
@@ -198445,8 +198445,8 @@
 1	manistee	bayttminette
 1	jackson	newttlondon
 1	shelbyvilleid596	conway
-1	merrill	richmond
 1	sellersburg	thomaston
+1	merrill	richmond
 1	jacksonid519	alexanderttcity
 1	bentonville	plymouth
 1	marietta	lawrenceburg
@@ -201967,8 +201967,8 @@
 1	loretto	collinwood
 1	mcminnville	northbrook
 1	macon	columbusid700
-1	glasgow	westttfrankfort
 1	evendale	piggott
+1	glasgow	westttfrankfort
 1	bedford	greenville
 1	elgin	searcy
 1	london	danvilleid734
@@ -202347,8 +202347,8 @@
 1	nodeid604	decatur
 1	cambridge	monroe
 1	tulsa	westttbend
-1	columbus	ricettlake
 1	grandtthaven	lakettcity
+1	columbus	ricettlake
 1	greensboro	morgantown
 1	linden	valparaiso
 1	carrolltonid693	norman
@@ -204395,8 +204395,8 @@
 1	danvilleid290	springfieldid745
 1	reading	culpeper
 1	oshkosh	rushville
-1	sealy	middletown
 1	florence	frenchttlick
+1	sealy	middletown
 1	mountttvernon	macon
 1	westttfrankfort	battlettcreek
 1	danville	rome
@@ -206459,8 +206459,8 @@
 1	athensid283	morehead
 1	roanoke	fredericksburg
 1	kingsport	selma
-1	mtttsterling	grandtthaven
 1	salem	clinton
+1	mtttsterling	grandtthaven
 1	norristtcity	plainfield
 1	smyrna	mtttsterling
 1	champaign	nacagdoches
@@ -207719,8 +207719,8 @@
 1	baltimore	nodeid345
 1	jacksonid228	cadillac
 1	marshall	lynchburgid671
-1	frankfort	nacagdoches
 1	wisconsinttdells	oneonta
+1	frankfort	nacagdoches
 1	springfield	sterling
 1	frenchttlick	opelousas
 1	thomasville	columbiaid471
@@ -214409,8 +214409,8 @@
 1	sikeston	paxton
 1	winstondashsalem	allendale
 1	nodeid636	greensboro
-1	michiganttcity	clarksville
 1	clarksville	xenia
+1	michiganttcity	clarksville
 1	bryan	chillicothe
 1	athensid517	lancaster
 1	madisonville	plainfield
@@ -216678,8 +216678,8 @@
 1	mishiwaka	cleveland
 1	manistee	fairfield
 1	marks	tulsa
-1	rochester	rome
 1	davenport	petersburgid166
+1	rochester	rome
 1	perry	clarksvilleid155
 1	nodeid636	crestview
 1	galesburg	albertttlea
@@ -227975,8 +227975,8 @@
 1	westttchicago	wilson
 1	winchesterid572	nodeid604
 1	carmi	jefferson
-1	clarksville	wilson
 1	ashland	grayling
+1	clarksville	wilson
 1	greenvilleid685	fremont
 1	mountttpleasant	pinson
 1	bainbride	elizabethttcity
@@ -232901,8 +232901,8 @@
 1	nodeid392	wisconsinttdells
 1	macomb	culpeper
 1	stevensttpoint	owensburg
-1	parisid273	muskogee
 1	newttorleans	hertford
+1	parisid273	muskogee
 1	louisvilleid694	milwaukee
 1	dothan	mtttsterling
 1	fortttworth	brookfield
@@ -245042,8 +245042,8 @@
 1	hayward	minden
 1	joplin	lufkin
 1	mcleansboro	stttlouis
-1	unionttcity	oneonta
 1	macon	hattiesburg
+1	unionttcity	oneonta
 1	americus	knoxville
 1	cadillac	manassas
 1	champaign	marengo
@@ -245710,8 +245710,8 @@
 1	tomah	shreveport
 1	madisonid315	bentonid610
 1	norton	athensid517
-1	ravenswood	dalton
 1	norton	cantonid521
+1	ravenswood	dalton
 1	terretthaute	eastlake
 1	nodeid269	princeton
 1	jefferson	menomonee
@@ -257527,8 +257527,8 @@
 1	lebanonid595	johnston
 1	bigttrapids	brainerd
 1	stevensttpoint	findlay
-1	mountttvernon	warrensburg
 1	austin	petersburg
+1	mountttvernon	warrensburg
 1	lebanonid132	lakettcharles
 1	dettpere	smithville
 1	afton	gadsden
@@ -261827,8 +261827,8 @@
 1	newttcastleid415	baraboo
 1	dexter	nashville
 1	mooresville	carmi
-1	waco	barnesville
 1	norristtcity	northttmanchester
+1	waco	barnesville
 1	houston	nodeid372
 1	mountttunion	brazil
 1	warsawid727	london
@@ -263869,8 +263869,8 @@
 1	warren	milan
 1	chandler	westttpoint
 1	philadelphia	brookfield
-1	newttlondon	madisonid315
 1	paoli	southttbend
+1	newttlondon	madisonid315
 1	tulsa	plymouth
 1	nodeid347	austin
 1	pineville	philadelphiaid349
@@ -264446,8 +264446,8 @@
 1	masonttcity	nodeid345
 1	christiansburg	bremen
 1	parkersburg	cantonid521
-1	windsor	mcgregor
 1	wytheville	rockyttmt
+1	windsor	mcgregor
 1	clarksville	johnston
 1	desttmoines	fredericksburg
 1	raleigh	marshall
@@ -264882,8 +264882,8 @@
 1	lynchburgid671	youngstown
 1	ruston	childersburg
 1	auburn	bloomington
-1	shreveport	bentonville
 1	jackson	rome
+1	shreveport	bentonville
 1	beloit	mattoon
 1	gadsden	petersburg
 1	madisonid315	logan
@@ -267062,8 +267062,8 @@
 1	skokie	scotlandttneck
 1	macquoketa	madisonid259
 1	valparaiso	manchester
-1	lufkin	cincinnati
 1	anderson	emporia
+1	lufkin	cincinnati
 1	kingsport	jesup
 1	gary	bentonville
 1	cincinnati	ronoakettrapids
@@ -269667,8 +269667,8 @@
 1	guntersville	hollyttsprings
 1	richmondid293	carbondale
 1	brookhaven	nodeid296
-1	talledega	nodeid372
 1	greensburgid593	princeton
+1	talledega	nodeid372
 1	martinsvilleid200	nodeid627
 1	linden	georgetown
 1	akron	waxahachie
@@ -269718,8 +269718,8 @@
 1	oxfordid687	springdale
 1	martinsvilleid200	nodeid636
 1	oklahomattcity	princeton
-1	auburnid467	beaverttdam
 1	clanton	nodeid372
+1	auburnid467	beaverttdam
 1	wilson	crystalttsprings
 1	bloomingtonid740	loganid180
 1	kendalville	americus
@@ -270173,8 +270173,8 @@
 1	richmondid293	grandttrapids
 1	grayling	abingdon
 1	columbusid700	murray
-1	richttsquare	seymour
 1	abingdon	duttquoin
+1	richttsquare	seymour
 1	estill	ironwood
 1	talledega	nodeid564
 1	ronoakettrapids	columbusid715
@@ -273493,8 +273493,8 @@
 1	luverne	johnsonttcity
 1	athensid517	oshkosh
 1	stttpaul	crestline
-1	monticello	tuskagee
 1	pinettapple	bereaid377
+1	monticello	tuskagee
 1	culpeper	mitchell
 1	skokie	littlettrock
 1	christiansburg	keysville
@@ -274533,8 +274533,8 @@
 1	clarksvilleid402	cedarttrapids
 1	rome	clevelandid403
 1	fremont	jacksonid434
-1	fairfield	hope
 1	macomb	biloxi
+1	fairfield	hope
 1	oakttgrove	newport
 1	newttcastle	jonesboro
 1	niles	pinson
@@ -276693,8 +276693,8 @@
 1	jacksonid519	hope
 1	anderson	menomonee
 1	dothan	baraboo
-1	houston	malden
 1	florence	littlettrock
+1	houston	malden
 1	mtttvernon	ashtabula
 1	ronoakettrapids	minneapolis
 1	columbiattcity	mckenzie
@@ -286494,8 +286494,8 @@
 1	nashville	eufaula
 1	london	centralia
 1	springfieldid712	mishiwaka
-1	london	newaygo
 1	frenchttlick	lynchburgid671
+1	london	newaygo
 1	danvilleid734	huntingtonid730
 1	franklinid606	huntington
 1	kalamazoo	macon
@@ -294249,8 +294249,8 @@
 1	madisonville	lincolton
 1	malvern	mountttvernon
 1	florence	mountttunion
-1	annttarbor	marissa
 1	centralttcity	griffin
+1	annttarbor	marissa
 1	dallas	cadillac
 1	petersburg	cleveland
 1	marshall	pinettbluff
@@ -295142,8 +295142,8 @@
 1	racine	frederick
 1	galesburg	dickson
 1	dyersburg	brookhaven
-1	newaygo	dixon
 1	kalamazoo	danvilleid290
+1	newaygo	dixon
 1	harlan	bainbride
 1	franklinid606	charleston
 1	northttvernon	charleston
@@ -296672,8 +296672,8 @@
 1	whitesburg	hamburg
 1	selma	dyersburg
 1	johnsonttcity	forest
-1	huntingdon	springdale
 1	huntington	capettgirardeau
+1	huntingdon	springdale
 1	rogers	centralttcity
 1	nodeid339	lenoir
 1	lenoir	austin
@@ -296853,8 +296853,8 @@
 1	springdale	frontttroyal
 1	hudson	stttpaul
 1	dexter	erie
-1	burlington	columbiattcity
 1	iowattcity	unionttcity
+1	burlington	columbiattcity
 1	lebanonid351	crystalttsprings
 1	murfreesboro	nodeid338
 1	murfreesboro	nodeid339
@@ -297399,8 +297399,8 @@
 1	rome	crystalttsprings
 1	southttboston	naperville
 1	springfieldid712	covingtonid234
-1	oakttridge	jacksonville
 1	jennings	starkville
+1	oakttridge	jacksonville
 1	farmville	crestline
 1	huntingdon	joplin
 1	portttclinton	dayton
@@ -299875,8 +299875,8 @@
 1	estill	stttpaul
 1	batonttrouge	nodeid64
 1	lawrenceburg	monroe
-1	mattoon	newttlondon
 1	batonttrouge	nodeid69
+1	mattoon	newttlondon
 1	lakettcity	greenttbay
 1	marengo	southtthill
 1	winchesterid572	searcy
@@ -301821,8 +301821,8 @@
 1	columbus	hollyttsprings
 1	florence	nodeid343
 1	minden	franklinid203
-1	annttarbor	chesapeake
 1	kankakee	oakttridge
+1	annttarbor	chesapeake
 1	valparaiso	appleton
 1	florence	nodeid347
 1	savannah	morgantown
@@ -306031,8 +306031,8 @@
 1	pinson	libertyville
 1	minden	akron
 1	logansport	battlettcreek
-1	corbin	rogersville
 1	bayttminette	martinsvilleid200
+1	corbin	rogersville
 1	oneonta	columbusid715
 1	crystalttsprings	menomonee
 1	selma	meadville
@@ -306756,8 +306756,8 @@
 1	fortttworth	estill
 1	bowlingttgreen	naperville
 1	marietta	redttwing
-1	eufaula	naperville
 1	alabaster	hyden
+1	eufaula	naperville
 1	lebanonid132	schaumburg
 1	piggott	collinwood
 1	merrill	monticello
@@ -313901,8 +313901,8 @@
 1	westttfrankfort	warsawid727
 1	mobile	cambridge
 1	bowlingttgreenid250	carbondale
-1	evergreen	morrilton
 1	columbusid715	newport
+1	evergreen	morrilton
 1	athens	beaumont
 1	jacksonvilleid527	jacksonid228
 1	wabasha	jacksonvilleid527
@@ -316732,8 +316732,8 @@
 1	jasper	manitowoc
 1	killen	slidell
 1	grayling	alabaster
-1	murray	winstondashsalem
 1	mcgregor	shepherdsville
+1	murray	winstondashsalem
 1	richmond	mcleansboro
 1	oneonta	kankakee
 1	pottstown	bedford
@@ -321506,8 +321506,8 @@
 1	rolla	plymouth
 1	oakttridge	nodeid635
 1	eastlake	woodville
-1	oakttridge	nodeid636
 1	opelousas	chippenwattfalls
+1	oakttridge	nodeid636
 1	carbondale	kankakee
 1	akron	corinth
 1	alabaster	rochester
@@ -321951,8 +321951,8 @@
 1	wichitattfalls	biscoe
 1	pensacola	milwaukee
 1	hyden	nodeid60
-1	mountttpleasant	louisville
 1	kalamazoo	hayward
+1	mountttpleasant	louisville
 1	fairfield	evansville
 1	paducah	springfieldid745
 1	westttchicago	annttarbor
@@ -331454,8 +331454,8 @@
 1	batesville	fortttworth
 1	albany	collierville
 1	muskegon	dexter
-1	lattcrosee	oxfordid687
 1	franklinid203	madison
+1	lattcrosee	oxfordid687
 1	mckenzie	leesville
 1	anniston	murray
 1	bayttminette	waco
@@ -334445,8 +334445,8 @@
 1	hayward	jackson
 1	tuskagee	biloxi
 1	hyden	london
-1	fairfield	dixon
 1	cantonid521	elizabethtttown
+1	fairfield	dixon
 1	schaumburg	decaturid320
 1	mtttsterling	clarksvilleid155
 1	littlettrock	richmondid209
@@ -340800,8 +340800,8 @@
 1	toledo	macquoketa
 1	greenwoodid641	mtttsterling
 1	westttfrankfort	philadelphiaid349
-1	anniston	luverne
 1	johnstown	durham
+1	anniston	luverne
 1	tomah	mobile
 1	danville	hertford
 1	burlington	chickasha
@@ -345163,8 +345163,8 @@
 1	luverne	covingtonid322
 1	gadsden	milwaukee
 1	monticello	westttchicago
-1	murray	bloomingtonid740
 1	bentonid610	denton
+1	murray	bloomingtonid740
 1	beckley	oshkosh
 1	huntingdon	harlan
 1	collinsville	marion
@@ -348577,8 +348577,8 @@
 1	baltimore	jacksonid434
 1	bowle	macquoketa
 1	cambridge	peru
-1	alexandria	michiganttcity
 1	valparaiso	ames
+1	alexandria	michiganttcity
 1	norristtcity	hotttsprings
 1	harrisburgid362	bentonttharbor
 1	annttarbor	birmingham
@@ -350488,8 +350488,8 @@
 1	fortttwayne	paris
 1	covingtonid322	logansport
 1	pensacola	brazil
-1	annttarbor	denton
 1	centralttcity	grandttrapids
+1	annttarbor	denton
 1	baraboo	danvilleid734
 1	pipestone	glenttlyn
 1	paducah	galesburg
@@ -363509,8 +363509,8 @@
 1	tallahassee	chickasha
 1	mineola	charlottesville
 1	griffin	murphysboro
-1	petersburg	lufkin
 1	kingsport	muskegon
+1	petersburg	lufkin
 1	chambersburg	abingdon
 1	scalesttmound	georgetown
 1	galesburg	carbondale
@@ -366714,8 +366714,8 @@
 1	cookeville	escanaba
 1	vicksburg	martinsville
 1	williamson	albany
-1	richttsquare	tunica
 1	norton	lawrenceburg
+1	richttsquare	tunica
 1	crossville	alabaster
 1	crossville	columbusid700
 1	glenttlyn	norwalk
@@ -367888,8 +367888,8 @@
 1	carmi	jackson
 1	carrolltonid693	morehead
 1	louisville	newttlondon
-1	annttarbor	anderson
 1	centralttcity	natchez
+1	annttarbor	anderson
 1	griffin	culpeper
 1	franklinid203	stttcloud
 1	hammond	hattiesburg
@@ -369349,8 +369349,8 @@
 1	richttsquare	smyrna
 1	memphis	ronoakettrapids
 1	sedalia	winchesterid572
-1	monticello	estill
 1	pinettapple	dettfuniakttsprings
+1	monticello	estill
 1	owatonna	mayfield
 1	grandtthaven	shelbyvilleid492
 1	reedburg	springfieldid745
@@ -377635,8 +377635,8 @@
 1	pittsburgh	jennings
 1	manchesterid679	roanoke
 1	gadsden	bentonville
-1	oxfordid687	troy
 1	holland	pineville
+1	oxfordid687	troy
 1	merrill	troy
 1	rhinelander	smyrna
 1	alexandria	opelousas
@@ -377763,8 +377763,8 @@
 1	westttmemphis	morganton
 1	mountttunion	tallahassee
 1	nodeid628	santtmarcos
-1	newttcastle	owatonna
 1	middletown	richmondid209
+1	newttcastle	owatonna
 1	manistee	mcgregor
 1	lenoir	tuskagee
 1	kokomo	lattcrosee
@@ -381518,8 +381518,8 @@
 1	elizabethttcity	logansport
 1	pikeville	demopolis
 1	dalton	madison
-1	dickson	somerset
 1	ashland	lebanonid132
+1	dickson	somerset
 1	jacksonid228	vincennes
 1	raleigh	brazil
 1	woodville	wabash
@@ -384700,8 +384700,8 @@
 1	tuskagee	jeffersonttcity
 1	windsor	wilmington
 1	richlands	albertville
-1	dodgeville	frankfort
 1	kendalville	santtmarcos
+1	dodgeville	frankfort
 1	hamilton	liberty
 1	garyid243	rogers
 1	litchfield	albertttlea
@@ -398275,8 +398275,8 @@
 1	slidell	scotlandttneck
 1	chicago	michiganttcity
 1	davenport	minden
-1	evergreen	kentwood
 1	columbusid715	martinsburg
+1	evergreen	kentwood
 1	nodeid347	westttpoint
 1	santtantonio	springdale
 1	milwaukee	akron
@@ -398666,8 +398666,8 @@
 1	newaygo	chicago
 1	lawton	vermilion
 1	biloxi	harrisonville
-1	winona	murfreesboro
 1	davenport	valparaiso
+1	winona	murfreesboro
 1	greensboroid558	parkersburg
 1	franklinid203	mccomb
 1	albany	covingtonid234
@@ -402411,8 +402411,8 @@
 1	franklinid606	marshallid618
 1	searcy	wilson
 1	alexandria	albertville
-1	monticello	traversettcity
 1	dallas	greenwood
+1	monticello	traversettcity
 1	lattfayette	rome
 1	bloomingtonid740	thomaston
 1	nodeid634	richmond
@@ -404661,8 +404661,8 @@
 1	findlay	hayward
 1	ames	greenwood
 1	austin	grandtthaven
-1	burlington	yazoottcity
 1	iowattcity	princeton
+1	burlington	yazoottcity
 1	franklin	jacksonvilleid527
 1	peoria	houston
 1	union	dothan
@@ -407605,8 +407605,8 @@
 1	williamson	greenville
 1	clymer	princeton
 1	grayling	newttlondon
-1	lexington	marquette
 1	huntingdon	northbrook
+1	lexington	marquette
 1	galesburg	norwalk
 1	austinid598	nodeid338
 1	austinid598	nodeid339
@@ -415018,8 +415018,8 @@
 1	covingtonid234	kingsport
 1	terretthaute	winona
 1	biloxi	nodeid137
-1	tuskagee	biscoe
 1	alabaster	luverne
+1	tuskagee	biscoe
 1	rogers	waukesha
 1	lawrenceburg	beaverttdamid344
 1	stttpaul	brainerd
@@ -416743,8 +416743,8 @@
 1	muncie	westttchicago
 1	akron	effingham
 1	zanesville	marion
-1	southttbend	mcleansboro
 1	lexington	elizabethttcity
+1	southttbend	mcleansboro
 1	duluth	gulfport
 1	loogootee	malvern
 1	bentonville	williamson
@@ -417435,8 +417435,8 @@
 1	washingtonid367	richmondid293
 1	wisconsinttdells	newttlondon
 1	richmondid293	mcintosh
-1	columbus	clevelandid403
 1	grandtthaven	paducah
+1	columbus	clevelandid403
 1	louisvilleid694	burnsville
 1	duttquoin	decaturid414
 1	nodeid64	macomb
@@ -421610,8 +421610,8 @@
 1	mooresville	northttmanchester
 1	tomah	alexanderttcity
 1	ricettlake	wabash
-1	hudson	nodeid627
 1	logan	wilmington
+1	hudson	nodeid627
 1	hudson	nodeid628
 1	mariettaid567	malden
 1	erie	nodeid83
@@ -422341,8 +422341,8 @@
 1	fortttknox	shepherdsville
 1	merrill	nodeid600
 1	chippenwattfalls	demopolis
-1	starkville	eastlake
 1	holland	jesup
+1	starkville	eastlake
 1	minden	charleston
 1	charlotte	ashtabula
 1	willmar	muncie
@@ -426793,8 +426793,8 @@
 1	superior	nevada
 1	collierville	wolcott
 1	jacksonville	lynchburgid671
-1	logansport	mariettaid567
 1	tomah	jacksonid228
+1	logansport	mariettaid567
 1	albertville	lafayetteid536
 1	muncie	clarksvilleid155
 1	livettoak	tallulah
@@ -427460,8 +427460,8 @@
 1	nodeid635	dickson
 1	westttfrankfort	woodville
 1	tulsa	nodeid372
-1	mayfield	kalamazoo
 1	mcgregor	hamburg
+1	mayfield	kalamazoo
 1	wickliffe	danville
 1	winchesterid572	childersburg
 1	hamilton	waukesha
@@ -431117,8 +431117,8 @@
 1	alabaster	jennings
 1	biloxi	evergreen
 1	unionttcity	madisonid259
-1	lebanonid751	garyid243
 1	lebanonid751	elgin
+1	lebanonid751	garyid243
 1	lebanonid751	garyid240
 1	grandttrapids	madisonid259
 1	michiganttcity	stttcloud
@@ -435709,8 +435709,8 @@
 1	bentonttharbor	citronelle
 1	morrilton	martin
 1	richmond	logan
-1	indianapolis	oxfordid687
 1	clinton	houston
+1	indianapolis	oxfordid687
 1	jasperid555	danville
 1	oshkosh	princetonid731
 1	mountttpleasant	waukesha
@@ -437904,8 +437904,8 @@
 1	akron	tullahoma
 1	searcy	oshkosh
 1	carmi	frankfortid491
-1	lexington	rochester
 1	nashville	dodgeville
+1	lexington	rochester
 1	plymouth	lancaster
 1	beaverttdam	morgantown
 1	estill	tallulah
@@ -442851,8 +442851,8 @@
 1	newport	clarksville
 1	louisville	lebanonid132
 1	portage	chandler
-1	watersmeet	monroe
 1	louisville	scotlandttneck
+1	watersmeet	monroe
 1	mayfield	vermilion
 1	rhinelander	akron
 1	beloit	macquoketa
@@ -446336,8 +446336,8 @@
 1	hopkinsville	christiansburg
 1	baltimore	kankakee
 1	bentonid267	crossville
-1	michiganttcity	elgin
 1	dickson	winchesterid572
+1	michiganttcity	elgin
 1	loretto	paragould
 1	smithville	freeportid750
 1	elkhart	greensburg
@@ -448324,8 +448324,8 @@
 1	charlottesville	remington
 1	wheeling	morgantown
 1	natchez	newark
-1	clarksville	athensid517
 1	huntington	leesburg
+1	clarksville	athensid517
 1	greensboro	winchester
 1	cambridge	york
 1	worthingtonid716	murphysboro
@@ -455598,8 +455598,8 @@
 1	thomasville	frontttroyal
 1	marshallid618	loganid180
 1	malden	hammond
-1	northttvernon	oakttbrook
 1	beckley	cairo
+1	northttvernon	oakttbrook
 1	roanoke	batonttrouge
 1	jacksonvilleid684	westttmemphis
 1	martin	kokomo
@@ -457247,8 +457247,8 @@
 1	manistee	bentonid267
 1	perry	ronoakettrapids
 1	wheeling	bigttrapids
-1	willmar	norwalk
 1	somerset	madisonid259
+1	willmar	norwalk
 1	glenttlyn	sturtevant
 1	atlanta	natchez
 1	hotttsprings	hayward
@@ -464143,8 +464143,8 @@
 0	talledega	elaine
 0	niles	warsaw
 0	valparaiso	williamsburg
-0	linettlexington	lexington
 0	greensboroid558	lawrenceville
+0	linettlexington	lexington
 0	warsaw	marysville
 0	paoli	prestonburg
 0	newportid457	southttboston
@@ -467427,8 +467427,8 @@
 0	brainerd	marysville
 0	crane	grandttrapids
 0	newttlondonid380	providence
-0	midland	elkhart
 0	clarendon	sealy
+0	midland	elkhart
 0	oakttbrook	saginaw
 0	evendale	moorhead
 0	fortttknox	georgetownid493
@@ -472449,8 +472449,8 @@
 0	flint	dalton
 0	waukesha	peerwarrensburg0
 0	dettkalb	marienna
-0	southfielddetroit	hammond
 0	joliet	fargo
+0	southfielddetroit	hammond
 0	maryville	janesville
 0	beaverttdamid344	bellefontaine
 0	laurel	morgantown
@@ -480184,8 +480184,8 @@
 0	athensid283	canton
 0	riverttfalls	salem
 0	pontiac	cullman
-0	southttbend	alpharette
 0	georgetownid493	washington
+0	southttbend	alpharette
 0	crawfordsville	bastrop
 0	westfield	greensburg
 0	beloit	kilmarnock
@@ -486812,8 +486812,8 @@
 0	newportid457	batonttrouge
 0	salvisa	southttboston
 0	joliet	sweetwater
-0	newportid457	clarksville
 0	canton	masonttcity
+0	newportid457	clarksville
 0	huntingtonid730	mansfield
 0	moline	marienna
 0	salvisa	fortttvalley
@@ -493536,8 +493536,8 @@
 0	savannah	parisid496
 0	corbin	heathsville
 0	springfield	massilon
-0	newportid457	jasper
 0	canton	oakttgrove
+0	newportid457	jasper
 0	scottsburg	lynchburg
 0	oxford	fargo
 0	alexandriaid749	newttcastle
@@ -497243,8 +497243,8 @@
 0	springfield	southfielddetroit
 0	jeffersonttcityid454	nodeid268
 0	gary	flint
-0	jeffersonttcityid454	nodeid269
 0	franklinid203	lewisburg
+0	jeffersonttcityid454	nodeid269
 0	bastrop	frenchttlick
 0	warsaw	hammond
 0	york	salvisa
@@ -523166,8 +523166,8 @@
 0	stanton	alexandriaid749
 0	benton	freeportid750
 0	lewisburg	spooner
-0	nashville	newportid457
 0	portsmouth	olney
+0	nashville	newportid457
 0	kilmarnock	murray
 0	malden	massilon
 0	jeffersonttcityid454	oakttgrove
@@ -525307,8 +525307,8 @@
 0	marshallid618	mtttcarmel
 0	bayttcity	lebanonid751
 0	richlands	lynchburg
-0	oakttridge	nobleville
 0	jennings	carrollton
+0	oakttridge	nobleville
 0	metropolis	mountttpleasant
 0	alpharette	dettkalb
 0	owatonna	jeffersonttcityid454
@@ -525659,8 +525659,8 @@
 0	toledo	jeffersonttcityid454
 0	conway	heathsville
 0	marvell	northttvernon
-0	newttlondon	panamattcity
 0	london	canton
+0	newttlondon	panamattcity
 0	norristtcity	panamattcity
 0	lawrenceville	moline
 0	angola	louisville
@@ -531190,8 +531190,8 @@
 0	norwalk	norcross
 0	waukesha	salvisa
 0	kilmarnock	dubuque
-0	elaine	hope
 0	carrolltonid693	kilmarnock
+0	elaine	hope
 0	danville	warsaw
 0	clarksvilleid155	heathsville
 0	paris	saginaw
@@ -537245,8 +537245,8 @@
 0	richlands	mansfield
 0	birmingham	sparta
 0	anniston	peerwarrensburg0
-0	southfielddetroit	madison
 0	centralttcity	prestonburg
+0	southfielddetroit	madison
 0	williamsburg	kansasttcity
 0	lynchburgid671	lynchburg
 0	midland	southfielddetroit
@@ -543733,8 +543733,8 @@
 0	peerwarrensburg0	chambersburg
 0	fergusttfalls	mckenzie
 0	wooster	erie
-0	sealy	maysville
 0	stanton	marvell
+0	sealy	maysville
 0	fargo	dodgeville
 0	mattoon	louisa
 0	heathsville	peerwarrensburg0
@@ -544615,8 +544615,8 @@
 0	southfielddetroit	tuskagee
 0	lewisburg	lufkin
 0	cambridge	dunwoody
-0	pontiac	penningtonttgap
 0	kankakee	maryville
+0	pontiac	penningtonttgap
 0	peerwarrensburg0	lynchburgid671
 0	covington	pontiac
 0	maysville	rockyttmt
@@ -545505,8 +545505,8 @@
 0	dexter	clarendon
 0	capettgirardeau	vonore
 0	fergusttfalls	charlottesville
-0	southfielddetroit	hope
 0	centralttcity	southfielddetroit
+0	southfielddetroit	hope
 0	linettlexington	athensid283
 0	middletown	peerwarrensburg0
 0	moorhead	richmond
@@ -554406,8 +554406,8 @@
 0	knoxville	pulaski
 0	crane	greenwood
 0	lebanonid412	nodeid345
-0	clarendon	slidell
 0	jacksonid519	lewisburg
+0	clarendon	slidell
 0	lebanonid412	nodeid343
 0	lynchburg	centralia
 0	rome	linettlexington
@@ -566027,8 +566027,8 @@
 0	bellefontaine	centralia
 0	panamattcity	stttlouis
 0	columbia	metropolis
-0	midland	nodeid343
 0	clarendon	norton
+0	midland	nodeid343
 0	benton	columbiattcity
 0	warsaw	opelousas
 0	midland	nodeid347

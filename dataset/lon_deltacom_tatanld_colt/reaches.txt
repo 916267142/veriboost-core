@@ -10769,8 +10769,8 @@
 2	lexington	westport
 2	middleburgh	nodeidgg113
 2	middleburgh	nodeidgg114
-2	jabalpur	hazaribagh
 2	hancock	satna
+2	jabalpur	hazaribagh
 2	middleburgh	nodeidgg111
 2	middleburgh	nodeidgg112
 2	middleburgh	nodeidgg110
@@ -13677,8 +13677,8 @@
 2	nodeidgg113	charlotte
 2	nodeidhg70	hamburg
 2	sylva	nodeidgg124
-2	orlando	massena
 2	memphis	raleigh
+2	orlando	massena
 2	ujjain	pondicherry
 2	watertown	tonk
 2	birmingham	meridian
@@ -25213,8 +25213,8 @@
 1	karnal	putnamttvalley
 1	pulaski	london
 1	bhopal	bristol
-1	ostend	macon
 1	arab	kanchipuram
+1	ostend	macon
 1	anniston	nodeidgg90
 1	anniston	nodeidgg91
 1	visakhapatnam	bharuch
@@ -29551,8 +29551,8 @@
 1	strasbourg	elmira
 1	krakov	newnah
 1	albanyidgh45	karlsruhe
-1	ranchi	winooski
 1	meerut	sangareddy
+1	ranchi	winooski
 1	saratogattsprings	jackson
 1	erode	opelika
 1	pinettbluff	westport
@@ -31191,8 +31191,8 @@
 1	nodeidhg70	dusseldorf
 1	jalandhar	gainesvilleidgh15
 1	stockholm	tampa
-1	kolkata	palghat
 1	nanded	birmingham
+1	kolkata	palghat
 1	potsdam	valdosta
 1	kolhapur	greenville
 1	geneva	patiala
@@ -34678,8 +34678,8 @@
 1	anniston	ambala
 1	buffalo	canton
 1	nodeidhh60	kanpur
-1	nasik	portttjervis
 1	utrecht	milan
+1	nasik	portttjervis
 1	ovid	toulouse
 1	mumbai	nyon
 1	arab	nodeidgg30
@@ -37857,8 +37857,8 @@
 1	portttjervis	alexanderttcity
 1	nodeidgg31	wintertthaven
 1	birmingham	ghaziabad
-1	nodeidgg109	dhanbad
 1	lagrange	remsen
+1	nodeidgg109	dhanbad
 1	nodeidgg124	valencia
 1	pune	lille
 1	pune	palladam
@@ -38913,8 +38913,8 @@
 1	lausanne	manchester
 1	athens	auburn
 1	barcelona	nuremberg
-1	agra	nodeidgg110
 1	houston	pune
+1	agra	nodeidgg110
 1	sarasota	bratislava
 1	germantown	dusseldorf
 1	nodeidgh97	lafayette
@@ -42145,8 +42145,8 @@
 1	nodeidgh112	albanyidgh45
 1	charlotte	zug
 1	moradabad	dortmund
-1	thirussur	bristol
 1	fredonia	cazenovia
+1	thirussur	bristol
 1	lucerne	dublin
 1	valencia	nodeidgg21
 1	chesterfield	charleston
@@ -48736,8 +48736,8 @@
 1	salem	zurich
 1	london	oneonta
 1	rutland	dublin
-1	aurangabad	herkimmer
 1	opelika	vienna
+1	aurangabad	herkimmer
 1	zug	bharuch
 1	santtmarcos	rostock
 1	pinettbluff	dhanbad
@@ -49795,8 +49795,8 @@
 1	kanpur	saranacttlake
 1	ahmedabad	oslo
 1	wuppertal	ashville
-1	rajgarh	gloversville
 1	beaumont	monroe
+1	rajgarh	gloversville
 1	bhandara	syracuse
 1	hoofddorp	southttcanaan
 1	amravati	newarkidhh54
@@ -50916,8 +50916,8 @@
 1	essexttjunction	sitapur
 1	rohtak	wellsville
 1	lille	ocala
-1	sangareddy	nodeidhh79
 1	alexanderttcity	brattleboro
+1	sangareddy	nodeidhh79
 1	bharuch	paulttsmiths
 1	bellowsttfalls	visakhapatnam
 1	warsaw	vicksburg
@@ -55793,8 +55793,8 @@
 1	portttjervis	rome
 1	dublin	meerut
 1	hoshiarpur	nodeidhg70
-1	thirussur	winstondashsalem
 1	fredonia	nodeidgg109
+1	thirussur	winstondashsalem
 1	durham	brussels
 1	dresden	schaffhausen
 1	rome	chiasso
@@ -57603,8 +57603,8 @@
 1	kolding	florence
 1	indore	kolar
 1	winooski	charlotte
-1	kolkata	kolding
 1	opelika	westttpalmttbeach
+1	kolkata	kolding
 1	modena	dallas
 1	corning	oslo
 1	valdosta	talwandittbahi
@@ -60432,8 +60432,8 @@
 1	nasik	kotttkapura
 1	saratogattsprings	reggiottemilia
 1	vidisha	jhansi
-1	ostend	toulouse
 1	birmingham	mysore
+1	ostend	toulouse
 1	knoxville	satara
 1	lakettcharles	indore
 1	auburnidgh41	patna
@@ -64682,8 +64682,8 @@
 1	gouveneur	paris
 1	addisonidgg108	firenze
 1	dresden	dublin
-1	bangalore	gainesville
 1	champlain	hollywood
+1	bangalore	gainesville
 1	wuppertal	bangalore
 1	meridian	houston
 1	coxsackie	hollywood
@@ -65354,8 +65354,8 @@
 1	buldhana	nyon
 1	bergamo	rochester
 1	antwerp	beaumont
-1	hazaribagh	winooski
 1	nanded	coxsackie
+1	hazaribagh	winooski
 1	gaya	nuremberg
 1	newttyorkidhh55	dothan
 1	sangareddy	torangallu
@@ -67776,8 +67776,8 @@
 1	khandwa	mountpelier
 1	gulbarga	como
 1	madural	canton
-1	orlando	bryan
 1	memphis	newarkidhh54
+1	orlando	bryan
 1	ratlam	binghampton
 1	gadsden	nyon
 1	sitapur	pfaffikon
@@ -67948,8 +67948,8 @@
 1	lakettcharles	jaunpur
 1	rewa	dublin
 1	turin	panjim
-1	hazaribagh	patiala
 1	nanded	meridian
+1	hazaribagh	patiala
 1	pensacola	memphis
 1	nodeidgh103	lakettplacid
 1	pondicherry	cologne
@@ -71224,8 +71224,8 @@
 1	moradabad	orlando
 1	dresden	germantown
 1	gothenburg	ashville
-1	olean	essexttjunction
 1	saugerties	nantes
+1	olean	essexttjunction
 1	padova	rowland
 1	nodeidhh73	whitehall
 1	hazaribagh	nantes
@@ -77711,8 +77711,8 @@
 1	munich	nantes
 1	valsad	jalgaon
 1	nodeidhh62	huntsville
-1	ranchi	tallahassee
 1	sangareddy	hamilton
+1	ranchi	tallahassee
 1	brussels	kotttkapura
 1	aarhus	kolar
 1	amsterdam	varanasi
@@ -80605,8 +80605,8 @@
 1	lakettplacid	bristol
 1	lexington	herkimmer
 1	lucerne	lakettplacid
-1	ranchi	nasik
 1	alexanderttcity	alfred
+1	ranchi	nasik
 1	watertown	trivandrum
 1	dublin	lowville
 1	trichy	chandigarh
@@ -80721,8 +80721,8 @@
 1	antwerp	sangli
 1	albanyidgh45	batonttrouge
 1	newttyorkidhh55	nodeidgg22
-1	newttyorkidhh55	nodeidgg24
 1	lugano	asansol
+1	newttyorkidhh55	nodeidgg24
 1	bristolidhh150	fredonia
 1	newport	allahabad
 1	mysore	como
@@ -81910,8 +81910,8 @@
 1	satna	fatehpur
 1	dusseldorf	baroda
 1	dallas	charlotte
-1	hazaribagh	copenhagen
 1	nanded	raipur
+1	hazaribagh	copenhagen
 1	gulbarga	bergamo
 1	jalgaon	winterthur
 1	waco	brussels
@@ -82536,8 +82536,8 @@
 1	lucknow	kotttkapura
 1	schaffhausen	rome
 1	prague	stttgallen
-1	hazaribagh	jalandhar
 1	meerut	hyderabad
+1	hazaribagh	jalandhar
 1	bhilwara	gulbarga
 1	lowville	verona
 1	newttyorkttcity	lafayette
@@ -84360,8 +84360,8 @@
 1	sumter	herkimmer
 1	aurangabad	asansol
 1	nodeidhh60	jaipur
-1	kolkata	fatehpur
 1	sangareddy	bhilwara
+1	kolkata	fatehpur
 1	karnal	basel
 1	anand	nyon
 1	panjim	westport
@@ -89569,8 +89569,8 @@
 1	chidambaram	newttyorkidhh55
 1	savannah	firenze
 1	bhopal	myrtlettbeach
-1	mangalore	manchester
 1	bologna	ashville
+1	mangalore	manchester
 1	rouen	cooperstown
 1	dortmund	gulbarga
 1	remsen	schaffhausen
@@ -91666,8 +91666,8 @@
 1	brussels	atlanta
 1	palladam	winstondashsalem
 1	callicut	sumter
-1	padova	tallahassee
 1	bareilly	gouveneur
+1	padova	tallahassee
 1	ahmedabad	nodeidgh102
 1	gulbarga	lagrange
 1	bratislava	wuppertal
@@ -93380,8 +93380,8 @@
 1	vijayavada	waco
 1	gwalior	reading
 1	utrecht	krakov
-1	nanded	plattsburgh
 1	alexanderttcity	amritsar
+1	nanded	plattsburgh
 1	houston	amsterdam
 1	amsterdam	turin
 1	nodeidgh97	pensacola
@@ -97678,8 +97678,8 @@
 1	newttyorkttcity	rostock
 1	auburn	hoshiarpur
 1	southttcanaan	brussels
-1	vicksburg	intview
 1	savannah	raichur
+1	vicksburg	intview
 1	nodeidgg91	melbourne
 1	ratlam	ghent
 1	portttjervis	kozhikode
@@ -102638,8 +102638,8 @@
 1	gwalior	zug
 1	marseille	ghaziabad
 1	queensbury	salamanca
-1	hyderabad	addisonidgg108
 1	chazy	hilversum
+1	hyderabad	addisonidgg108
 1	nodeidgg89	ithaca
 1	nodeidhh79	anand
 1	rennes	herkimmer
@@ -112821,8 +112821,8 @@
 1	rewa	ernakulam
 1	charlotte	schaffhausen
 1	verona	manchester
-1	jaunpur	jacksonville
 1	greenville	montpellier
+1	jaunpur	jacksonville
 1	jaunpur	antwerp
 1	pune	dusseldorf
 1	waco	oneonta
@@ -113264,8 +113264,8 @@
 1	almond	sauntttaugustine
 1	greenville	brescia
 1	jalgaon	nodeidhh73
-1	jalgaon	nodeidhh79
 1	satna	bristolidhh150
+1	jalgaon	nodeidhh79
 1	trichy	essen
 1	burdett	madural
 1	geneva	arab
@@ -117810,8 +117810,8 @@
 1	dallas	ingleside
 1	tampa	satara
 1	karnal	paris
-1	vijayavada	ernakulam
 1	chazy	vienna
+1	vijayavada	ernakulam
 1	toulouse	firenze
 1	erode	linz
 1	thetthague	florence
@@ -120238,8 +120238,8 @@
 1	herkimmer	copenhagen
 1	strasbourg	bellowsttfalls
 1	raleigh	frankfurt
-1	mumbai	geneva
 1	amsterdam	watertown
+1	mumbai	geneva
 1	raichur	binghampton
 1	nodeidgg30	albany
 1	hadiagarh	bharuch
@@ -123266,8 +123266,8 @@
 1	potsdam	alexanderttcity
 1	kharagpur	hassan
 1	salamanca	copenhagen
-1	vijayavada	stuttgart
 1	westport	como
+1	vijayavada	stuttgart
 1	wintertthaven	thirussur
 1	hubli	almond
 1	linz	damoh
@@ -130354,8 +130354,8 @@
 1	thirussur	gadsden
 1	tirupur	tuscaloosa
 1	jacksonville	bharuch
-1	dhulia	montgomery
 1	amsterdam	tuscaloosa
+1	dhulia	montgomery
 1	nodeidgh102	valencia
 1	newarkidhh54	hamburg
 1	jackson	paris
@@ -132528,8 +132528,8 @@
 1	nodeidgh102	thirussur
 1	baroda	ogdensburg
 1	brescia	bhopal
-1	ostend	schroonttlake
 1	huntsville	genova
+1	ostend	schroonttlake
 1	zurich	schroonttlake
 1	nodeidgh103	queensbury
 1	solapur	bareilly
@@ -134134,8 +134134,8 @@
 1	paris	ahmedabad
 1	saratogattsprings	hattiesburg
 1	pondicherry	shreveport
-1	raipur	orangeburg
 1	delhi	nodeidgg24
+1	raipur	orangeburg
 1	anand	ghent
 1	bharuch	dryden
 1	gloversville	panjim
@@ -138116,8 +138116,8 @@
 1	fredonia	wilmington
 1	vijayavada	mannheim
 1	warsaw	watertown
-1	bangalore	patiala
 1	chazy	ashville
+1	bangalore	patiala
 1	kanpur	deposit
 1	nodeidgh97	tirupur
 1	dortmund	moradabad
@@ -138228,8 +138228,8 @@
 1	austin	nodeidhh60
 1	marseille	gulbarga
 1	dhulia	hyderabad
-1	kota	bologna
 1	birminghamidhh77	nodeidgg94
+1	kota	bologna
 1	hollywood	hamilton
 1	birminghamidhh77	nodeidgg95
 1	ovid	prague
@@ -143175,8 +143175,8 @@
 1	mangalore	nodeidgg21
 1	alexandriattbay	monroe
 1	augusta	valencia
-1	kolkata	torangallu
 1	sangareddy	ahmednagar
+1	kolkata	torangallu
 1	nodeidgg31	allepey
 1	prague	cassadaga
 1	alexanderttcity	lakettplacid
@@ -143424,8 +143424,8 @@
 1	rome	torangallu
 1	tuscaloosa	pfaffikon
 1	chiasso	salamanca
-1	ostend	dryden
 1	arab	champlain
+1	ostend	dryden
 1	hadiagarh	visakhapatnam
 1	gouveneur	jabalpur
 1	basel	tonk
@@ -147099,8 +147099,8 @@
 1	newarkidhh54	miami
 1	damoh	nodeidgh86
 1	deposit	addisonidgg108
-1	jalgaon	verona
 1	satna	addison
+1	jalgaon	verona
 1	ujjain	ithaca
 1	jaunpur	bharuch
 1	pulaski	chidambaram
@@ -148769,8 +148769,8 @@
 1	fredonia	hoshiarpur
 1	valdosta	jabalpur
 1	nanded	saugerties
-1	nanded	hannover
 1	meerut	rourkela
+1	nanded	hannover
 1	nashville	kanchipuram
 1	margaretsville	birmingham
 1	ostend	nodeidhg118
@@ -159434,8 +159434,8 @@
 1	varanasi	sitapur
 1	bareilly	nodeidgg111
 1	bareilly	nodeidgg110
-1	kota	wintertthaven
 1	birminghamidhh77	nodeidhh79
+1	kota	wintertthaven
 1	oslo	ratlam
 1	bareilly	nodeidgg114
 1	bareilly	nodeidgg113
@@ -162186,8 +162186,8 @@
 1	panjim	herkimmer
 1	birminghamidhh77	dhulia
 1	cazenovia	saratogattsprings
-1	chandrapur	goa
 1	champlain	coxsackie
+1	chandrapur	goa
 1	budapest	ithaca
 1	tiruchendur	erode
 1	almond	tiruchendur
@@ -162311,8 +162311,8 @@
 1	bangalore	delhi
 1	nodeidgh111	burdett
 1	solapur	agra
-1	olean	tirupati
 1	albany	essen
+1	olean	tirupati
 1	mangalore	warsaw
 1	bhandara	ujjain
 1	whitesville	bristolidhh150
@@ -165042,8 +165042,8 @@
 1	geneve	ranchi
 1	manchester	olean
 1	satara	hollywood
-1	kolkata	corning
 1	sangareddy	tiruchendur
+1	kolkata	corning
 1	gainesville	zug
 1	brattleboro	montpellier
 1	bristol	sauntttaugustine
@@ -165123,8 +165123,8 @@
 1	westttpalmttbeach	mangalore
 1	ovid	munich
 1	ujjain	himmatnagar
-1	lagrangeidgh43	arab
 1	manchesteridhh76	remsen
+1	lagrangeidgh43	arab
 1	champlain	karlsruhe
 1	nodeidgg24	trivandrum
 1	sivakasi	bratislava
@@ -167640,8 +167640,8 @@
 1	cassadaga	jamshedpur
 1	jabalpur	nodeidgg31
 1	nodeidgg90	sangareddy
-1	jabalpur	nodeidgg30
 1	hancock	newarkidhh54
+1	jabalpur	nodeidgg30
 1	hollywood	geneva
 1	rajgarh	poughkeepsie
 1	kolhapur	zug
@@ -167915,8 +167915,8 @@
 1	tirupur	bangalore
 1	champlain	nodeidgh99
 1	champlain	nodeidgh98
-1	chandrapur	hazaribagh
 1	champlain	nodeidgh97
+1	chandrapur	hazaribagh
 1	brescia	moradabad
 1	bareilly	kolkata
 1	bhubaneshwar	rewa
@@ -174056,8 +174056,8 @@
 1	watertown	asansol
 1	belgaum	hoofddorp
 1	allepey	khandwa
-1	chandrapur	sauntttaugustine
 1	chazy	montgomery
+1	chandrapur	sauntttaugustine
 1	nodeidgg124	nodeidgg123
 1	newttyorkidhh55	lakettcharles
 1	raipur	odessa
@@ -174566,8 +174566,8 @@
 1	nodeidgg109	cassadaga
 1	fatehpur	prague
 1	newnah	chandrapur
-1	rajgarh	canton
 1	lakettcharles	milan
+1	rajgarh	canton
 1	nodeidgh97	pfaffikon
 1	bologna	nodeidgg111
 1	bologna	lugano
@@ -178054,8 +178054,8 @@
 1	rohtak	tirunelveli
 1	sitapur	bordeaux
 1	nodeidgh99	chiasso
-1	kolkata	pinettbluff
 1	meerut	dhanbad
+1	kolkata	pinettbluff
 1	kollam	udaipur
 1	visakhapatnam	middleburgh
 1	jaunpur	houston
@@ -179105,8 +179105,8 @@
 1	firenze	bokaro
 1	mannheim	ocala
 1	auburn	sangli
-1	rajgarh	hannover
 1	lakettcharles	memphis
+1	rajgarh	hannover
 1	brattleboro	hollywood
 1	olean	nodeidhg70
 1	kollam	ahmednagar
@@ -180895,8 +180895,8 @@
 1	panamattcity	auburn
 1	leipzig	raichur
 1	jhansi	germantown
-1	aurangabad	alexanderttcity
 1	opelika	ahmednagar
+1	aurangabad	alexanderttcity
 1	lakettcity	amsterdam
 1	nodeidhh62	benningtown
 1	valencia	basel
@@ -182146,8 +182146,8 @@
 1	cassadaga	canton
 1	columbia	frankfurt
 1	kottayem	saratogattsprings
-1	kolkata	nodeidgh102
 1	auburnidgh41	deposit
+1	kolkata	nodeidgh102
 1	kolkata	nodeidgh101
 1	brescia	jalgaon
 1	kolkata	nodeidgh100
@@ -184390,8 +184390,8 @@
 1	addisonidgg108	cortland
 1	patna	dortmund
 1	ludhiana	sivakasi
-1	ahmednagar	vicksburg
 1	amsterdam	modena
+1	ahmednagar	vicksburg
 1	dortmund	palghat
 1	plattsburgh	bristolidhh150
 1	schaffhausen	auburnidgh41
@@ -189192,8 +189192,8 @@
 1	ithaca	bristolidhh150
 1	nyon	kharagpur
 1	hubli	margaretsville
-1	ranchi	barre
 1	auburnidgh41	bratislava
+1	ranchi	barre
 1	ithaca	gulbarga
 1	nodeidgg94	raichur
 1	savannah	jalandhar
@@ -192253,8 +192253,8 @@
 1	bharuch	knoxville
 1	gadsden	dallas
 1	mumbai	callicut
-1	nodeidgg109	kolkata
 1	lagrange	goa
+1	nodeidgg109	kolkata
 1	nodeidgg90	ashville
 1	winstondashsalem	queensbury
 1	leipzig	kozhikode
@@ -193377,8 +193377,8 @@
 1	burdett	greensboro
 1	kolding	antwerp
 1	trichy	genova
-1	dhulia	batonttrouge
 1	hilversum	nodeidgg96
+1	dhulia	batonttrouge
 1	hilversum	nodeidgg95
 1	bristolidhh150	durham
 1	hilversum	nodeidgg94
@@ -193418,8 +193418,8 @@
 1	reggiottemilia	montpellier
 1	lucknow	newport
 1	ambala	jackson
-1	vijayavada	rourkela
 1	chazy	bristolidhh150
+1	vijayavada	rourkela
 1	ludhiana	chiasso
 1	chandrapur	batonttrouge
 1	patiala	gwalior
@@ -196427,8 +196427,8 @@
 1	tampa	dortmund
 1	ghent	mysore
 1	hyderabad	salamanca
-1	sangareddy	columbia
 1	alexanderttcity	bhandara
+1	sangareddy	columbia
 1	dhulia	alexandria
 1	bergamo	charleston
 1	whitesville	oslo
@@ -197014,8 +197014,8 @@
 1	ludhiana	brattleboro
 1	dhanbad	nantes
 1	dallas	fortttlauderdale
-1	ahmednagar	stttgallen
 1	utrecht	alexandria
+1	ahmednagar	stttgallen
 1	paulttsmiths	tuscaloosa
 1	bordeaux	sauntttaugustine
 1	nodeidhh73	ghent
@@ -206515,8 +206515,8 @@
 0	rockyttmount	lakettcity
 0	reggiottemilia	keene
 0	crestview	evere
-0	cuneo	raichur
 0	thirussur	erding
+0	cuneo	raichur
 0	venezia	gadsden
 0	wintertthaven	noida
 0	coxsackie	trieste
@@ -222228,8 +222228,8 @@
 0	coimbatore	graz
 0	hickory	anderlecht
 0	chennai	callicut
-0	agra	lisbon
 0	houston	graz
+0	agra	lisbon
 0	dortmund	sassari
 0	evere	salem
 0	trento	philadelphia
@@ -272440,8 +272440,8 @@
 0	crestview	philadelphia
 0	nodeidgg94	graz
 0	berlin	potsdamidhh3
-0	cuneo	kharagpur
 0	cassadaga	philadelphia
+0	cuneo	kharagpur
 0	whitettriverttjunction	palermo
 0	palermo	florence
 0	peerremsen0	beaufort

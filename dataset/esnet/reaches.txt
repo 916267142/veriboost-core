@@ -1754,8 +1754,8 @@
 0	abilene	nodeid25
 0	netl	maxgpop
 0	abilene	nodeid21
-0	geant	bnl
 0	lanl	peernrel0
+0	geant	bnl
 0	abilene	nodeid20
 0	ampath	atla
 0	atla	arm

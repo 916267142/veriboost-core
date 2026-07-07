@@ -3739,8 +3739,8 @@
 1	nodeid175	budapest
 1	toulouse	marseille
 1	nodeid173	rouen
-1	alicante	newttorleans
 1	barcelona	florence
+1	alicante	newttorleans
 1	albuquerque	toronto
 1	barcelona	brussels
 1	constanta	hamburg
@@ -5489,8 +5489,8 @@
 1	toledo	saltttlakettcity
 1	rennes	brussels
 1	nodeid175	newcastle
-1	saltttlakettcity	tours
 1	bremen	madrid
+1	saltttlakettcity	tours
 1	odessa	paris
 1	bilbao	santander
 1	munster	avila
@@ -6172,8 +6172,8 @@
 1	bern	liverpoolttsouthport
 1	louisville	worcester
 1	coimbra	frankfurt
-1	murcia	amsterdam
 1	barcelona	philadelphia
+1	murcia	amsterdam
 1	nodeid174	edinburgh
 1	balchik	orlando
 1	santtdiego	zurich
@@ -7291,8 +7291,8 @@
 1	stuttgart	essen
 1	odessa	avila
 1	charlotte	zurich
-1	murcia	arezzo
 1	valencia	galati
+1	murcia	arezzo
 1	milwaukee	essen
 1	stttlouis	amsterdam
 1	saltttlakettcity	marseille
@@ -9558,8 +9558,8 @@
 1	antwerp	charlotte
 1	malmo	oslo
 1	badajoz	sevilla
-1	chicago	denver
 1	constanta	bratislava
+1	chicago	denver
 1	coimbra	orangettcounty
 1	nodeid176	marseille
 1	albuquerque	basel
@@ -9621,8 +9621,8 @@
 1	tours	burgas
 1	houston	luxembourg
 1	nodeid173	badajoz
-1	denver	brussels
 1	hamburg	frankfurt
+1	denver	brussels
 1	orlando	jackson
 1	poiters	vigo
 1	orlando	essen
@@ -19052,8 +19052,8 @@
 1	badajoz	oklahomattcity
 1	bremen	badajoz
 1	dortmund	timisoara
-1	granada	jacksonville
 1	nodeid171	lyon
+1	granada	jacksonville
 1	montreal	slough
 1	leon	charlotte
 1	zurich	santtdiego
@@ -19153,8 +19153,8 @@
 1	pittsburgh	albany
 1	philadelphia	providence
 1	strasbourg	galati
-1	chicago	dallas
 1	constanta	genoa
+1	chicago	dallas
 1	newcastle	minneapolis
 1	bremen	brussels
 1	losttangeles	houston
@@ -22582,8 +22582,8 @@
 1	jacksonville	slough
 1	vienna	rouen
 1	portland	tampa
-1	stttlouis	columbus
 1	balchik	stuttgart
+1	stttlouis	columbus
 1	oklahomattcity	nuremberg
 1	fortttworth	leeds
 1	oklahomattcity	sacramento

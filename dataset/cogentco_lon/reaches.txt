@@ -7182,8 +7182,8 @@
 1	kansasttcity	orlando
 1	poughkeepsie	leon
 1	vienna	denver
-1	addison	milan
 1	whitehall	tampa
+1	addison	milan
 1	cortland	prague
 1	essexttjunction	coxsackie
 1	dryden	pulaski
@@ -8472,8 +8472,8 @@
 1	balchik	almond
 1	nodeidh90	dallas
 1	basel	strasbourg
-1	pulaski	hamilton
 1	barcelona	santtdiego
+1	pulaski	hamilton
 1	providence	london
 1	cortland	strasbourg
 1	buffaloidh67	reims
@@ -10856,8 +10856,8 @@
 1	barre	barcelona
 1	hamilton	gloversville
 1	geneva	saratogattsprings
-1	slough	queensbury
 1	basel	montreal
+1	slough	queensbury
 1	mainzdashwiesbaden	fredonia
 1	jackson	sophia
 1	rennes	santtsebastian
@@ -11178,8 +11178,8 @@
 1	paris	saranacttlake
 1	boise	genevaidh51
 1	antwerp	madrid
-1	burdett	genoa
 1	zurich	miami
+1	burdett	genoa
 1	ogdensburg	rennes
 1	bristol	paulttsmiths
 1	vernon	nodeidh112
@@ -13425,8 +13425,8 @@
 1	kansasttcity	nodeidh24
 1	rome	potsdam
 1	porto	coxsackie
-1	kansasttcity	nodeidh22
 1	hamburg	dortmund
+1	kansasttcity	nodeidh22
 1	constanta	baltimore
 1	kansasttcity	nodeidh21
 1	minneapolis	boise
@@ -13686,8 +13686,8 @@
 1	brattleboro	bratislava
 1	utica	badajoz
 1	leeds	cassadaga
-1	salamanca	basel
 1	kapitanttandreevo	orangettcounty
+1	salamanca	basel
 1	southttbend	lille
 1	brattleboro	strasbourg
 1	nodeidg144	cooperstown
@@ -16376,8 +16376,8 @@
 1	ovid	columbus
 1	indianapolis	auburn
 1	charlotte	santtdiego
-1	saranacttlake	odessaidh48
 1	birmingham	malone
+1	saranacttlake	odessaidh48
 1	newport	santtsebastian
 1	nodeidh22	mainzdashwiesbaden
 1	ogdensburg	essen
@@ -17551,8 +17551,8 @@
 1	queensbury	nodeidh22
 1	houston	olean
 1	paris	auburn
-1	syracuse	portttjervis
 1	valencia	phelps
+1	syracuse	portttjervis
 1	orangettcounty	nodeidg150
 1	atlanta	malaga
 1	ithaca	santtantonio
@@ -19074,8 +19074,8 @@
 1	reims	morrisville
 1	genevaidh51	cambridge
 1	strasbourg	galati
-1	chicago	dallas
 1	constanta	genoa
+1	chicago	dallas
 1	bremen	brussels
 1	losttangeles	houston
 1	dortmund	london
@@ -21035,8 +21035,8 @@
 1	ithaca	mainzdashwiesbaden
 1	glasgow	deposit
 1	utica	worcester
-1	charlotte	monroe
 1	alfred	potsdam
+1	charlotte	monroe
 1	cortland	burlington
 1	elmira	manchester
 1	jackson	mountpelier
@@ -21525,8 +21525,8 @@
 1	montpellier	hancock
 1	tours	tulsa
 1	burgas	whitehall
-1	poughkeepsie	bucharest
 1	columbus	chicago
+1	poughkeepsie	bucharest
 1	gouveneur	oklahomattcity
 1	cassadaga	munich
 1	slough	toronto
@@ -22576,8 +22576,8 @@
 1	losttangeles	canton
 1	sevilla	ogdensburg
 1	whitesville	manchester
-1	oneonta	bellowsttfalls
 1	baltimore	dresden
+1	oneonta	bellowsttfalls
 1	stuttgart	santtantonio
 1	kiev	memphis
 1	geneva	malaga
@@ -23315,8 +23315,8 @@
 1	utica	sophia
 1	cooperstown	benningtown
 1	providence	pittsburgh
-1	nodeidg148	santtdiego
 1	alfred	atlanta
+1	nodeidg148	santtdiego
 1	elttpaso	philadelphia
 1	dallas	luxembourg
 1	barcelona	leon
@@ -24719,8 +24719,8 @@
 1	nodeidh24	luxembourg
 1	antwerp	santtfrancisco
 1	massena	madrid
-1	whitesville	saranacttlake
 1	bern	winooski
+1	whitesville	saranacttlake
 1	cassadaga	manchester
 1	grenoble	binghampton
 1	frankfurt	pittsburgh
@@ -26460,8 +26460,8 @@
 1	budapest	portland
 1	phoenix	canton
 1	leon	jacksonville
-1	charlotte	portttjervis
 1	ingleside	stuttgart
+1	charlotte	portttjervis
 1	germantown	toulouse
 1	orlando	saugerties
 1	bremen	strasbourg
@@ -39732,8 +39732,8 @@
 1	lakettplacid	constanta
 1	newport	middleburgh
 1	coxsackie	avila
-1	chicago	lisbon
 1	constanta	vernon
+1	chicago	lisbon
 1	odessa	watertown
 1	rowland	arezzo
 1	leon	vernon
@@ -41262,8 +41262,8 @@
 1	bordeaux	cobleskill
 1	manchester	oklahomattcity
 1	bordeaux	london
-1	nodeidh114	bordeaux
 1	basel	prague
+1	nodeidh114	bordeaux
 1	bremen	deposit
 1	alfred	cooperstown
 1	whitesville	fortttworth
@@ -41452,8 +41452,8 @@
 1	hancock	gouveneur
 1	nodeidg148	nodeidg174
 1	nodeidg148	nodeidg173
-1	nodeidg148	nodeidg172
 1	almond	nodeidg150
+1	nodeidg148	nodeidg172
 1	almond	nodeidg171
 1	gijon	munster
 1	chazy	alfred
@@ -41494,8 +41494,8 @@
 1	brattleboro	newport
 1	almond	nodeidg173
 1	fredonia	stttlouis
-1	nodeidg148	nodeidg150
 1	almond	nodeidg172
+1	nodeidg148	nodeidg150
 1	leeds	forestttcity
 1	nodeidg147	nodeidg148
 1	rowland	harriman
@@ -42026,8 +42026,8 @@
 1	paduadashvenice	tours
 1	binghampton	phelps
 1	nodeidh112	bristol
-1	nodeidh21	badajoz
 1	basel	coxsackie
+1	nodeidh21	badajoz
 1	rennes	coloradottsprings
 1	ingleside	nodeidh21
 1	pittsburgh	phelps
@@ -44563,8 +44563,8 @@
 1	vigo	dublin
 1	poiters	binghampton
 1	nodeidh111	elttpaso
-1	nodeidg148	bucharest
 1	almond	bucharest
+1	nodeidg148	bucharest
 1	antwerp	badajoz
 1	hamiltonidh55	cleveland
 1	nodeidg149	stttlouis
@@ -46148,8 +46148,8 @@
 1	austin	champlain
 1	olean	potsdam
 1	middleburgh	nodeidh93
-1	middleburgh	nodeidh92
 1	philadelphia	sofia
+1	middleburgh	nodeidh92
 1	middleburgh	nodeidh91
 1	stamford	lyon
 1	middleburgh	nodeidh90
@@ -49465,8 +49465,8 @@
 1	elmira	almond
 1	cobleskill	nodeidh93
 1	brno	manchester
-1	oneonta	malaga
 1	baltimore	saugerties
+1	oneonta	malaga
 1	albanyidh64	lowville
 1	oneonta	addison
 1	southttcanaan	nodeidh24
@@ -51077,8 +51077,8 @@
 1	amsterdam	nodeidh21
 1	jackson	galati
 1	cooperstown	lisbon
-1	florence	badajoz
 1	amsterdam	nodeidh22
+1	florence	badajoz
 1	columbus	addison
 1	newttyorkttcity	auburn
 1	utica	arezzo
@@ -54310,8 +54310,8 @@
 1	worcester	mainzdashwiesbaden
 1	crownttpoint	malone
 1	lyon	addisonidh108
-1	nodeidg148	newttorleans
 1	almond	newttorleans
+1	nodeidg148	newttorleans
 1	dallas	nantes
 1	washington	portland
 1	genevaidh51	saratogattsprings
@@ -63953,8 +63953,8 @@
 1	zurich	delhi
 1	potsdam	murcia
 1	badajoz	sevilla
-1	chicago	denver
 1	constanta	bratislava
+1	chicago	denver
 1	burdett	queensbury
 1	leeds	lille
 1	leeds	nantes
@@ -64207,8 +64207,8 @@
 1	wellsville	rochester
 1	fredonia	albuquerque
 1	houston	valencia
-1	nodeidh21	newttyork
 1	bern	washington
+1	nodeidh21	newttyork
 1	oakland	baltimore
 1	massena	nuremberg
 1	boston	phoenix
@@ -66922,8 +66922,8 @@
 1	charlotte	nuremberg
 1	malone	mountpelier
 1	ingleside	lakettplacid
-1	burdett	portttjervis
 1	bern	hancock
+1	burdett	portttjervis
 1	addison	poiters
 1	nantes	pittsburgh
 1	losttangeles	santander
@@ -69726,8 +69726,8 @@
 1	massena	columbus
 1	dublin	nodeidh94
 1	cortland	nodeidh91
-1	dublin	nodeidh93
 1	basel	charlotte
+1	dublin	nodeidh93
 1	cortland	nodeidh90
 1	dublin	nodeidh92
 1	dublin	nodeidh91
@@ -71003,8 +71003,8 @@
 1	santtsebastian	phelps
 1	poiters	nodeidh30
 1	newttyorkttcity	dusseldorf
-1	salamanca	albany
 1	burgas	newttyorkttcity
+1	salamanca	albany
 1	london	jacksonville
 1	santander	constanta
 1	odessa	malone
@@ -74239,8 +74239,8 @@
 1	nodeidg174	leeds
 1	cambridge	timisoara
 1	oneonta	liverpoolttsouthport
-1	indianapolis	coloradottsprings
 1	alfred	albanyidh64
+1	indianapolis	coloradottsprings
 1	utica	timisoara
 1	nodeidg171	memphis
 1	poughkeepsie	atlanta

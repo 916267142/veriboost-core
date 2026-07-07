@@ -2,8 +2,8 @@
 
 ## 1. Overview
 
-VeriBoost is an acceleration tool for network verifiers.  
-Its core idea is to verify network properties by classifying network links into three categories based on the verification property: **up links**, **down links**, and **free links**.  
+VeriBoost is an acceleration tool for network verifiers.
+Its core idea is to verify network properties by classifying network links into three categories based on the verification property: **up links**, **down links**, and **free links**.
 When solving the **k-failure** problem (i.e., verifying network behavior under up to k failures), VeriBoost only needs to consider the links in the **free** links. This optimization significantly reduces the verification complexity and improves performance.
 
 ---
@@ -21,11 +21,13 @@ To build the VeriBoost project and install the generated JAR file into your loca
 This will generate a shaded (fat) JAR in the target/ directory, for example: veriboost-core-1.0.jar.
 
 2. Test whether the jar package is generated correctly.
+
 ```bash
 java -jar target/veriboost-core-1.0.jar src/test/resources/topology.txt panamattcity raleigh
 ```
 
 3. Install the JAR into your local Maven repository:
+
 ```
 mvn install:install-file \
     -Dfile=target/veriboost-core-1.0.jar \
@@ -37,6 +39,7 @@ mvn install:install-file \
 ```
 
 Add the following dependency into the pom.xml of verifiers.
+
 ```
 <dependency>
     <groupId>org.ants</groupId>
@@ -44,7 +47,6 @@ Add the following dependency into the pom.xml of verifiers.
     <version>1.0</version>
 </dependency>
 ```
-
 
 4. Use VeriBoost. Below is a basic example to demonstrate the usage of VeriBoost in your Java application:
 

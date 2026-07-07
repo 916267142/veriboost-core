@@ -1,0 +1,8 @@
+Total number of properties : 71289
+Total number of queries : 113677
+Total number of properties by mincut : 71022
+Total number of k = 3 : 600
+Total number of k = 2 : 3176
+Total number of k = 1 : 38612
+Percentage of properties : 0.9962546816479401
+Percentage of queries  : 0.6247701821828514

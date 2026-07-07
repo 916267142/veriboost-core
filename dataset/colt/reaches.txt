@@ -874,8 +874,8 @@
 1	aarhus	bordeaux
 1	newark	antwerp
 1	budapest	rouen
-1	ghent	utrecht
 1	bristol	bordeaux
+1	ghent	utrecht
 1	copenhagen	barcelona
 1	turin	nuremberg
 1	dresden	genova
@@ -1966,8 +1966,8 @@
 1	rennes	lille
 1	brescia	london
 1	oslo	modena
-1	ghent	rennes
 1	reading	nantes
+1	ghent	rennes
 1	turin	newark
 1	madrid	frankfurt
 1	brussels	padova
@@ -3560,8 +3560,8 @@
 1	strasbourg	bologna
 1	toulouse	bergamo
 1	mannheim	amsterdam
-1	ghent	nodeid79
 1	dublin	turin
+1	ghent	nodeid79
 1	munich	dortmund
 1	modena	hilversum
 1	nodeid62	frankfurt
@@ -5485,8 +5485,8 @@
 1	como	nuremberg
 1	manchester	stuttgart
 1	newttyork	budapest
-1	nodeid62	copenhagen
 1	reading	london
+1	nodeid62	copenhagen
 1	dresden	reading
 1	nantes	hamburg
 1	lausanne	hilversum
@@ -7544,8 +7544,8 @@
 1	reading	como
 1	copenhagen	amsterdam
 1	schaffhausen	copenhagen
-1	ghent	valencia
 1	reading	rennes
+1	ghent	valencia
 1	bologna	hannover
 1	valencia	pfaffikon
 1	nuremberg	frankfurt
@@ -8061,8 +8061,8 @@
 1	strasbourg	wuppertal
 1	firenze	nodeid73
 1	schaffhausen	denttbosch
-1	brussels	stuttgart
 1	cologne	kolding
+1	brussels	stuttgart
 1	lausanne	firenze
 1	winterthur	genova
 1	winterthur	zug
@@ -10468,8 +10468,8 @@
 0	parma	birmingham
 0	nantes	sintra
 0	bologna	porto
-0	bologna	sassari
 0	antwerp	helsinki
+0	bologna	sassari
 0	bielbienne	brindisi
 0	lucerne	innsbruck
 0	malmo	kolding
@@ -13591,8 +13591,8 @@
 0	london	sassari
 0	bari	bristol
 0	cologne	liege
-0	varese	rostock
 0	trieste	sassari
+0	varese	rostock
 0	nuremberg	novara
 0	sintra	rennes
 0	vicenza	hilversum
@@ -15849,8 +15849,8 @@
 0	vienna	lisbon
 0	hoofddorp	malmo
 0	palermo	ghent
-0	varese	geneve
 0	trieste	boblingen
+0	varese	geneve
 0	nice	schaffhausen
 0	palermo	biella
 0	cuneo	rome
@@ -18091,8 +18091,8 @@
 0	chicago	rouen
 0	dijon	ghent
 0	tours	copenhagen
-0	sassari	mannheim
 0	valencia	innsbruck
+0	sassari	mannheim
 0	porto	dusseldorf
 0	firenze	cuneo
 0	trieste	modena
@@ -18517,8 +18517,8 @@
 0	lisbon	manchester
 0	nantes	catania
 0	varese	malmo
-0	sassari	dusseldorf
 0	valencia	lisbon
+0	sassari	dusseldorf
 0	bern	newark
 0	livorno	lille
 0	aarhus	magdemburg
@@ -20600,8 +20600,8 @@
 0	venezia	lyon
 0	salzburg	krakov
 0	varese	bordeaux
-0	monza	sassari
 0	monza	barcelona
+0	monza	sassari
 0	paris	bari
 0	milan	borgomanero
 0	ghent	bari
@@ -21608,8 +21608,8 @@
 0	eindhoven	gothenburg
 0	brindisi	treviso
 0	marseille	bielbienne
-0	brussels	cuneo
 0	cologne	nice
+0	brussels	cuneo
 0	linz	venezia
 0	porto	stockholm
 0	firenze	kortnijk
@@ -21866,8 +21866,8 @@
 0	chiasso	palermo
 0	evere	nodeid73
 0	evere	nodeid79
-0	brussels	boblingen
 0	cologne	evere
+0	brussels	boblingen
 0	brescia	kortnijk
 0	bern	frankfurt
 0	poitiers	napoli
@@ -22578,8 +22578,8 @@
 0	palermo	chiasso
 0	rimini	hannover
 0	leuven	paris
-0	nodeid62	mons
 0	reading	chicago
+0	nodeid62	mons
 0	oslo	boston
 0	gothenburg	borgomanero
 0	newark	varese
@@ -23379,8 +23379,8 @@
 0	cagliari	hilversum
 0	malmo	nodeid60
 0	novara	wuppertal
-0	leuven	strasbourg
 0	cologne	rimini
+0	leuven	strasbourg
 0	malmo	nodeid62
 0	bern	esslingen
 0	magdemburg	trento

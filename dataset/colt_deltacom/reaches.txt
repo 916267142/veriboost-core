@@ -14148,8 +14148,8 @@
 1	westttpalmttbeach	rotterdam
 1	miami	barcelona
 1	nodeidg62	albany
-1	dusseldorf	brussels
 1	dublin	copenhagen
+1	dusseldorf	brussels
 1	nodeidh101	strasbourg
 1	waco	pensacola
 1	munich	jackson
@@ -22288,8 +22288,8 @@
 1	verona	gainesvilleidh15
 1	lakettcharles	bratislava
 1	orangeburg	gainesvilleidh15
-1	firenze	reading
 1	antwerp	crestview
+1	firenze	reading
 1	basel	zurich
 1	padova	wintertthaven
 1	pinettbluff	pensacola
@@ -22483,8 +22483,8 @@
 1	miami	thetthague
 1	warsaw	pfaffikon
 1	paris	hickory
-1	madrid	mobile
 1	tampa	orangeburg
+1	madrid	mobile
 1	verona	lagrange
 1	leipzig	atlanta
 1	stuttgart	panamattcity
@@ -25767,8 +25767,8 @@
 1	columbia	macon
 1	hoofddorp	winterthur
 1	basel	monroe
-1	ostend	prague
 1	arab	atlanta
+1	ostend	prague
 1	vicksburg	gothenburg
 1	chattanooga	wintertthaven
 1	santtantonia	westttpalmttbeach
@@ -29415,8 +29415,8 @@
 1	intview	valencia
 1	genova	antwerp
 1	ostend	denttbosch
-1	westttpalmttbeach	lagrangeidh43
 1	shreveport	schaffhausen
+1	westttpalmttbeach	lagrangeidh43
 1	kolding	wilmington
 1	nodeidg60	rome
 1	knoxville	lucerne
@@ -32501,8 +32501,8 @@
 1	littlettrock	dresden
 1	gainesvilleidh15	dusseldorf
 1	padova	nuremberg
-1	bologna	nodeidh84
 1	antwerp	anniston
+1	bologna	nodeidh84
 1	bologna	nodeidh85
 1	knoxville	myrtlettbeach
 1	karlsruhe	schaffhausen
@@ -41913,8 +41913,8 @@
 0	thetthague	venezia
 0	liege	hamburg
 0	neuss	waco
-0	nodeidh101	anderlecht
 0	hiltontthead	bristol
+0	nodeidh101	anderlecht
 0	bordeaux	cuneo
 0	memphis	leuven
 0	liege	fayatteville
@@ -46645,8 +46645,8 @@
 0	parma	jacksonidh91
 0	cuneo	rome
 0	cuneo	trento
-0	lisbon	bologna
 0	peerlinz0	budapest
+0	lisbon	bologna
 0	porto	tampa
 0	bucharest	fortttlauderdale
 0	biella	greenville
@@ -52394,8 +52394,8 @@
 0	eindhoven	breda
 0	westttpoint	napoli
 0	kortnijk	rotterdam
-0	madrid	evere
 0	salzburg	tuscaloosa
+0	madrid	evere
 0	melbourne	luxembourg
 0	wuppertal	esslingen
 0	beaumont	rockyttmount
@@ -64544,8 +64544,8 @@
 0	bristol	sintra
 0	nodeidh98	magdemburg
 0	verona	porto
-0	norfolk	newarkidh38
 0	sumter	evere
+0	norfolk	newarkidh38
 0	borgomanero	amsterdam
 0	malmo	monza
 0	luxembourg	beaumont
