@@ -131,13 +131,17 @@ public class VeriBoostParser {
             return;
         }
         
-        VeriBoostUtil.Interface from_Interface = new VeriBoostUtil.Interface(
-            from_str.nextToken().trim(), from_str.nextToken().trim());
-        VeriBoostUtil.Interface to_Interface = new VeriBoostUtil.Interface(
-            to_str.nextToken().trim(), to_str.nextToken().trim());
+        // VeriBoostUtil.Interface from_Interface = new VeriBoostUtil.Interface(
+        //     from_str.nextToken().trim(), from_str.nextToken().trim());
+        // VeriBoostUtil.Interface to_Interface = new VeriBoostUtil.Interface(
+        //     to_str.nextToken().trim(), to_str.nextToken().trim());
             
-        VeriBoostUtil.Link link = new VeriBoostUtil.Link(from_Interface, to_Interface);
-        this.links.add(link);
+        // VeriBoostUtil.Link link = new VeriBoostUtil.Link(from_Interface, to_Interface);
+        // this.links.add(link);
+
+        // this.addLinks(from_str.nextToken().trim(), from_str.nextToken().trim(), to_str.nextToken().trim(), to_str.nextToken().trim());
+        // this.addLinks(from_str.nextToken().trim(), "empty", to_str.nextToken().trim(), "empty");
+        this.addLinks(from_str.nextToken().trim(), from_str.nextToken().trim(), to_str.nextToken().trim(), to_str.nextToken().trim());
     }
 
     /**
@@ -159,13 +163,15 @@ public class VeriBoostParser {
         String dstDevice = str.nextToken();
         String dstInterface = str.nextToken();
         
-        VeriBoostUtil.Interface from_Interface = new VeriBoostUtil.Interface(
-            srcDevice, srcInterface);
-        VeriBoostUtil.Interface to_Interface = new VeriBoostUtil.Interface(
-            dstDevice, dstInterface);
+        // VeriBoostUtil.Interface from_Interface = new VeriBoostUtil.Interface(
+        //     srcDevice, srcInterface);
+        // VeriBoostUtil.Interface to_Interface = new VeriBoostUtil.Interface(
+        //     dstDevice, dstInterface);
             
-        VeriBoostUtil.Link link = new VeriBoostUtil.Link(from_Interface, to_Interface);
-        this.links.add(link);
+        // VeriBoostUtil.Link link = new VeriBoostUtil.Link(from_Interface, to_Interface);
+        // this.links.add(link);
+
+        this.addLinks(srcDevice, srcInterface, dstDevice, dstInterface);
     }
     // /**
     //  * Reads topology from an InputStream with the same format as readTopologyFromFile
@@ -211,5 +217,9 @@ public class VeriBoostParser {
     
     public void addLinks(String srcDevice, String dstDevice) {
         this.links.add(new VeriBoostUtil.Link(new VeriBoostUtil.Interface(srcDevice, "none"), new VeriBoostUtil.Interface(dstDevice, "none")));
+    }
+
+    public void addLinks(String srcDevice, String srcInterface, String dstDevice, String dstInterface) {
+        this.links.add(new VeriBoostUtil.Link(new VeriBoostUtil.Interface(srcDevice, srcInterface), new VeriBoostUtil.Interface(dstDevice, dstInterface)));
     }
 }

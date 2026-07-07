@@ -57,6 +57,7 @@ public class VeriBoost extends VeriBoostParser {
         return this.networkGraph.graph.get(src).get(dst);
     }
 
+    int i = 0;
     public void buildEdge() {
         this.links.forEach(this::addBidirectionalEdge);
     }
@@ -67,6 +68,7 @@ public class VeriBoost extends VeriBoostParser {
     }
 
     void addBidirectionalEdge(Link link) {
+        i++;
         this.networkGraph.addBidirectionalEdge(link);
         this.simplePathCore.addEdge(link.from_interface.device_name, link.to_interface.device_name);
         this.simplePathCore.addEdge(link.to_interface.device_name, link.from_interface.device_name);
@@ -203,19 +205,29 @@ public class VeriBoost extends VeriBoostParser {
         return down_links.contains(link);
     } 
 
-    public HashSet<SimpleLink> getUpLinks() {
+    public HashSet<Link> getUpLinks() {
         return this.calculateLinkStatus(LinkType.up_link);
     }
 
-    public HashSet<SimpleLink> getDownLinks() {
+    public HashSet<Link> getDownLinks() {
         return this.calculateLinkStatus(LinkType.down_link);
     }
 
-    public HashSet<SimpleLink> getSymbolicLinks() {
+    public HashSet<Link> getSymbolicLinks() {
         return this.calculateLinkStatus(LinkType.symbolic_link);
     }
 
-    public HashSet<SimpleLink> calculateLinkStatus(LinkType link_type) {
+    public HashSet<Link> calculateLinkStatus(LinkType link_type) {
+        HashSet<Link> links = new HashSet<>();
+        minesweeper_link_types.forEach((link, type) -> {
+            if (link_type.equals(type)) {
+                links.add(link);
+            }
+        });
+        return links;
+    }
+
+    public HashSet<SimpleLink> calculateSimpleLinkStatus(LinkType link_type) {
         HashSet<SimpleLink> links = new HashSet<>();
         minesweeper_link_types.forEach((link, type) -> {
             if (link_type.equals(type)) {

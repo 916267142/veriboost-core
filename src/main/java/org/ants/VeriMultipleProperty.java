@@ -1,4 +1,4 @@
-package org.ants.application;
+package org.ants;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -11,7 +11,6 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import org.ants.VeriBoost;
 import org.ants.VeriBoostUtil.SimpleLink;
 
 public class VeriMultipleProperty {

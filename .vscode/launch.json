@@ -6,18 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "VeriSingleProperty",
+            "name": "Main",
             "request": "launch",
-            "mainClass": "org.ants.application.VeriSingleProperty",
+            "mainClass": "org.ants.Main",
             "projectName": "veriboost-core",
-            "args": "uscarrier atlanta greensboro"
-        },
-        {
-            "type": "java",
-            "name": "VeriMultipleProperty",
-            "request": "launch",
-            "mainClass": "org.ants.application.VeriMultipleProperty",
-            "projectName": "veriboost-core",
-            "args": "uscarrier 3"
+            "args": "src/test/resources/uscarrier.txt atlanta greensboro"
         }
 }
