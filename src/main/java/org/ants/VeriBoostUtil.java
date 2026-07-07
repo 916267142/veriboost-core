@@ -265,8 +265,8 @@ public class VeriBoostUtil {
 
     public static class SimpleLink {
 
-        String src_name;
-        String dst_name;
+        public String src_name;
+        public String dst_name;
 
         public SimpleLink(String src_name, String dst_name) {
             if (src_name.compareTo(dst_name) < 0) {
@@ -276,6 +276,14 @@ public class VeriBoostUtil {
                 this.src_name = dst_name;
                 this.dst_name = src_name;
             }
+        }
+
+        public String getFirst() {
+            return src_name;
+        }
+
+        public String getSecond() {
+            return dst_name;
         }
 
         SimpleLink(Link link) {

@@ -200,7 +200,19 @@ public class VeriBoost extends VeriBoostParser {
      */
     public boolean isLinkDown(Link link) {
         return down_links.contains(link);
-    }   
+    } 
+
+    public HashSet<SimpleLink> getUpLinks() {
+        return this.getMinesweeperConstraint(LinkType.up_link);
+    }
+
+    public HashSet<SimpleLink> getDownLinks() {
+        return this.getMinesweeperConstraint(LinkType.down_link);
+    }
+
+    public HashSet<SimpleLink> getSymbolicLinks() {
+        return this.getMinesweeperConstraint(LinkType.free_link);
+    }
 
     public HashSet<SimpleLink> getMinesweeperConstraint(LinkType link_type) {
         HashSet<SimpleLink> links = new HashSet<>();

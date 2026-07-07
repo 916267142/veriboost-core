@@ -6,11 +6,25 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Main",
+            "name": "Example",
             "request": "launch",
-            "mainClass": "org.ants.Main",
+            "mainClass": "org.ants.application.Example",
             "projectName": "veriboost-core",
-            "args": "/home/simple/Desktop/veriboost-core/src/test/resources/topology.txt panamattcity raleigh"
+            "args": "/home/simple/workspace/veriboost-workspace/veriboost-core/src/test/resources/topology.txt panamattcity raleigh"
+        },
+        {
+            "type": "java",
+            "name": "CalculateSpace",
+            "request": "launch",
+            "mainClass": "org.ants.CalculateSpace",
+            "projectName": "veriboost-core",
+            "args": "arnes 3"
+        },
+        {
+            "type": "java",
+            "name": "Simulation",
+            "request": "launch",
+            "mainClass": "org.ants.application.Simulation",
+            "projectName": "veriboost-core"
         }
-    ]
 }
