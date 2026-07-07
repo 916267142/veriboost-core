@@ -62,6 +62,7 @@ public class VeriBoost extends VeriBoostParser {
     }
 
     public void buildComponent() {
+        this.buildEdge();
         simplePathCore.constructBCTree();
     }
 
@@ -100,7 +101,7 @@ public class VeriBoost extends VeriBoostParser {
         return this.trivialPathCore.getGraphByDegreePrune(graph, src, dst);
     }
 
-    public void getMinesweeperConstraint(String src, String dst) {
+    public void calculateLinkStatus(String src, String dst) {
         // Clear existing sets
         free_links.clear();
         up_links.clear();
@@ -127,7 +128,7 @@ public class VeriBoost extends VeriBoostParser {
         NetworkGraph graph2 = this.getGraphByDegreePrune(graph1, src, dst);
         graph2.getGraph().forEach((key, value) -> {
             value.forEach((key1, link) -> {
-                minesweeper_link_types.put(link, LinkType.free_link);
+                minesweeper_link_types.put(link, LinkType.symbolic_link);
                 free_links.add(link); // Add to free_links set
             });
         });
@@ -141,7 +142,7 @@ public class VeriBoost extends VeriBoostParser {
         this.compression_time = System.nanoTime() - start;
     }
 
-    public void getMinesweeperConstraint() {
+    public void calculateLinkStatus() {
         // Clear existing sets
         free_links.clear();
         up_links.clear();
@@ -162,7 +163,7 @@ public class VeriBoost extends VeriBoostParser {
         NetworkGraph graph2 = this.getGraphByDegreePrune(networkGraph, randomNode, randomNode);
         graph2.getGraph().forEach((key, value) -> {
             value.forEach((key1, link) -> {
-                minesweeper_link_types.put(link, LinkType.free_link);
+                minesweeper_link_types.put(link, LinkType.symbolic_link);
                 free_links.add(link); // Add to free_links set
             });
         });
@@ -203,18 +204,18 @@ public class VeriBoost extends VeriBoostParser {
     } 
 
     public HashSet<SimpleLink> getUpLinks() {
-        return this.getMinesweeperConstraint(LinkType.up_link);
+        return this.calculateLinkStatus(LinkType.up_link);
     }
 
     public HashSet<SimpleLink> getDownLinks() {
-        return this.getMinesweeperConstraint(LinkType.down_link);
+        return this.calculateLinkStatus(LinkType.down_link);
     }
 
     public HashSet<SimpleLink> getSymbolicLinks() {
-        return this.getMinesweeperConstraint(LinkType.free_link);
+        return this.calculateLinkStatus(LinkType.symbolic_link);
     }
 
-    public HashSet<SimpleLink> getMinesweeperConstraint(LinkType link_type) {
+    public HashSet<SimpleLink> calculateLinkStatus(LinkType link_type) {
         HashSet<SimpleLink> links = new HashSet<>();
         minesweeper_link_types.forEach((link, type) -> {
             if (link_type.equals(type)) {

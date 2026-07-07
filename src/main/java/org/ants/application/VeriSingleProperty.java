@@ -1,11 +1,9 @@
 package org.ants.application;
 
 import java.util.HashSet;
-
 import org.ants.VeriBoost;
-import org.ants.VeriBoostUtil.LinkType;
 
-public class Example {
+public class VeriSingleProperty {
     public static void main(String[] args) {
         if (args.length < 3) {
             System.err.println("[error] Please provide 3 arguments: <topologyFilePath> <srcNode> <dstNode>");
@@ -17,18 +15,21 @@ public class Example {
         String dstNode = args[2];
 
         VeriBoost veriBoost = new VeriBoost();
+
+        // Step 1: Load the network topology.
         veriBoost.readTopologyFromFile(topologyFilePath);
 
-        veriBoost.buildEdge();
+        // Step 2: Construct point biconnected components.
         veriBoost.buildComponent();
 
-        veriBoost.getMinesweeperConstraint(srcNode, dstNode);
+        // Step 3: Query link status for single property
+        veriBoost.calculateLinkStatus(srcNode, dstNode);
 
-        HashSet<?> freeLinks = veriBoost.getMinesweeperConstraint(LinkType.free_link);
-        HashSet<?> downLinks = veriBoost.getMinesweeperConstraint(LinkType.down_link);
-        HashSet<?> upLinks = veriBoost.getMinesweeperConstraint(LinkType.up_link);
+        HashSet<?> symbolicLinks = veriBoost.getSymbolicLinks();
+        HashSet<?> downLinks = veriBoost.getDownLinks();
+        HashSet<?> upLinks = veriBoost.getUpLinks();
 
-        System.out.println("free_link count: " + (freeLinks == null ? 0 : freeLinks.size()));
+        System.out.println("symbolic_link count: " + (symbolicLinks == null ? 0 : symbolicLinks.size()));
         System.out.println("down_link count: " + (downLinks == null ? 0 : downLinks.size()));
         System.out.println("up_link count: " + (upLinks == null ? 0 : upLinks.size()));
     }

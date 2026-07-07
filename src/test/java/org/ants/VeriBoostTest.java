@@ -30,20 +30,20 @@ public class VeriBoostTest {
     @Test
     public void testVeriBoost1() {
         // Step2. calculate the constraint
-        veriBoost.getMinesweeperConstraint("panamattcity", "raleigh");
+        veriBoost.calculateLinkStatus("panamattcity", "raleigh");
 
         // Step3. query the corresponding constraint
-        assertEquals(61, veriBoost.getMinesweeperConstraint(LinkType.free_link).size());
-        assertEquals(65, veriBoost.getMinesweeperConstraint(LinkType.up_link).size());
-        assertEquals(79, veriBoost.getMinesweeperConstraint(LinkType.down_link).size());
+        assertEquals(61, veriBoost.calculateLinkStatus(LinkType.symbolic_link).size());
+        assertEquals(65, veriBoost.calculateLinkStatus(LinkType.up_link).size());
+        assertEquals(79, veriBoost.calculateLinkStatus(LinkType.down_link).size());
     }
 
         @Test
     public void testVeriBoost2() {
-        veriBoost.getMinesweeperConstraint("sylva", "ellijay");
-        assertEquals(6, veriBoost.getMinesweeperConstraint(LinkType.free_link).size());
-        assertEquals(8, veriBoost.getMinesweeperConstraint(LinkType.up_link).size());
-        assertEquals(191, veriBoost.getMinesweeperConstraint(LinkType.down_link).size());
+        veriBoost.calculateLinkStatus("sylva", "ellijay");
+        assertEquals(6, veriBoost.calculateLinkStatus(LinkType.symbolic_link).size());
+        assertEquals(8, veriBoost.calculateLinkStatus(LinkType.up_link).size());
+        assertEquals(191, veriBoost.calculateLinkStatus(LinkType.down_link).size());
 
     }
 }

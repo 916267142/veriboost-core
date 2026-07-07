@@ -1,4 +1,4 @@
-package org.ants;
+package org.ants.application;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -10,47 +10,48 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.stream.Collectors;
-
+import org.ants.VeriBoost;
 import org.ants.VeriBoostUtil.SimpleLink;
 
-public class CalculateSpace {
-
-    static int number = 0;
+public class VeriMultipleProperty {
 
     public static void main(String[] args) throws IOException {
-
-
         if (args.length < 2) {
-            System.err.println("[error] Please provide 2 arguments: <topologyFilePath> <propertyNumber>");
+            System.err.println("[error] Please provide 2 arguments: <filePath> <propertyNumber>");
             System.exit(1);
         }
 
-        String filename = args[0];
-        number = Integer.parseInt(args[1]);
-
-        HashSet<SimpleLink> links = readTopologyFile(filename);
-        // System.out.println(links.size() + " links read from topology file.");
+        String filePath = args[0];
+        
         VeriBoost veriBoost = new VeriBoost();
-        links.forEach(link -> {
-            veriBoost.addLinks(link.dst_name, link.src_name);
-        });
 
+        // Step 1: Load the network topology.
+        readTopologyFile(filePath).forEach(link -> veriBoost.addLinks(link.dst_name, link.src_name));
+
+        // Step 2: Construct point biconnected components.
         veriBoost.buildComponent();
-        List<SimpleLink> properties = readPropertyFile(filename);
+
+        // Read the properties from the file and limit to the specified number
+        List<SimpleLink> properties = readPropertyFile(filePath, Integer.parseInt(args[1]));
 
         for (SimpleLink property : properties) {
+
+            // Step 3: Query link status for single property
             veriBoost.calculateLinkStatus(property.src_name, property.dst_name);
-            HashSet<SimpleLink> upLinks = veriBoost.getUpLinks();
-            HashSet<SimpleLink> downLinks = veriBoost.getDownLinks();
-            HashSet<SimpleLink> symbolicLinks = veriBoost.getSymbolicLinks();
-            System.out.print(property.src_name + " -> " + property.dst_name + ": ");
-            System.out.print("Up Links: " + upLinks.size());
-            System.out.print("Down Links: " + downLinks.size());
-            System.out.print("Free Links: " + symbolicLinks.size());
-            System.out.println();
+
+            HashSet<?> symbolicLinks = veriBoost.getSymbolicLinks();
+            HashSet<?> downLinks = veriBoost.getDownLinks();
+            HashSet<?> upLinks = veriBoost.getUpLinks();
+
+            // Step 4: Apply VeriBoost to verifiers.
+            // Here, we use print the link status counts as a placeholder for actual verification logic.
+            System.out.println("property: " + property.src_name + " -> " + property.dst_name
+                    + ", symbolicinks: " + (symbolicLinks == null ? 0 : symbolicLinks.size())
+                    + ", downLinks: " + (downLinks == null ? 0 : downLinks.size())
+                    + ", upLinks: " + (upLinks == null ? 0 : upLinks.size()));
         }
     }
-
+        
     static public List<String> getAllDirectoryNames(String directoryPath) throws IOException {
         Path basePath = Paths.get(directoryPath);
         
@@ -67,15 +68,15 @@ public class CalculateSpace {
         }
     }
         
-    static public List<SimpleLink> readPropertyFile(String datasetName) throws IOException {
+    static public List<SimpleLink> readPropertyFile(String datasetName, int propertyNumber) throws IOException {
         List<SimpleLink> properties = new ArrayList<>();
         Path filePath = Paths.get("dataset", datasetName, "reaches.txt");
-    
+
         int i = 0;
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath.toFile()))) {
             String line;
             while ((line = reader.readLine()) != null) {
-                if(i++ >= number) break;
+                if(i++ >= propertyNumber) break;
                 String from = line.split("\t")[1];
                 String to = line.split("\t")[2];
                 SimpleLink link = new SimpleLink(from, to);
@@ -89,7 +90,7 @@ public class CalculateSpace {
     static public HashSet<SimpleLink> readTopologyFile(String datasetName) throws IOException {
         HashSet<SimpleLink> links = new HashSet<>();
         Path filePath = Paths.get("dataset", datasetName, "topology.txt");
-    
+
         try (BufferedReader reader = new BufferedReader(new FileReader(filePath.toFile()))) {
             String line;
             while ((line = reader.readLine()) != null) {
@@ -102,6 +103,5 @@ public class CalculateSpace {
         
         return links;
     }
-
 
 }

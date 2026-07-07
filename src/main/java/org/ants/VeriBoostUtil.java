@@ -330,7 +330,7 @@ public class VeriBoostUtil {
     }
 
     public enum LinkType {
-        free_link,
+        symbolic_link,
         down_link,
         up_link
     }

@@ -16,7 +16,7 @@
             "type": "java",
             "name": "CalculateSpace",
             "request": "launch",
-            "mainClass": "org.ants.CalculateSpace",
+            "mainClass": "org.ants.application.CalculateSpace",
             "projectName": "veriboost-core",
             "args": "arnes 3"
         },

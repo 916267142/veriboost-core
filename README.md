@@ -65,12 +65,12 @@ public class Example {
         veriBoost.buildComponent();
 
         // Step 3: Calculate constraints between two nodes
-        veriBoost.getMinesweeperConstraint("sourceNode", "destinationNode");
+        veriBoost.calculateLinkStatus("sourceNode", "destinationNode");
 
         // Step 4: Query constraints by link type
-        HashSet<SimpleLink> upLinks = linkTypes.add(LinkType.free_link);
+        HashSet<SimpleLink> upLinks = linkTypes.add(LinkType.symbolic_link);
         HashSet<SimpleLink> downLinks = linkTypes.add(LinkType.down_link);
-        HashSet<SimpleLink> freeLinks = linkTypes.add(LinkType.free_link);
+        HashSet<SimpleLink> symbolicLinks = linkTypes.add(LinkType.symbolic_link);
 
         // Step 5: According to the type of verifiers, apply VeriBoost. For example, SMT-based, simulation-based, hybrid-based, or graph-based verifiers.
     }
