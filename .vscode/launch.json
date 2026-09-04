@@ -6,11 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Main",
+            "name": "Example",
             "request": "launch",
-            "mainClass": "org.ants.Main",
-            "projectName": "veriboost-core",
-            "args": "dataset/uscarrier 3"
+            "mainClass": "org.ants.Example",
+            "projectName": "veriboost-core"
         },
         {
             "type": "java",
@@ -18,7 +17,15 @@
             "request": "launch",
             "mainClass": "org.ants.Main",
             "projectName": "veriboost-core",
-            "args": "dataset/uscarrier atlanta greensboro"
+            "args": "dataset/uscarrier 300"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "org.ants.Main",
+            "projectName": "veriboost-core",
+            "args": "dataset/uscarrier montgomery rocktthill"
         }
     ]
 }
