@@ -17,7 +17,7 @@
             "request": "launch",
             "mainClass": "org.ants.Main",
             "projectName": "veriboost-core",
-            "args": "dataset/uscarrier 300"
+            "args": "dataset/uscarrier 10"
         },
         {
             "type": "java",

@@ -16,12 +16,12 @@ This repository provides instructions for compiling *VeriBoost* and introduces i
 ## Requirements
 
 - Linux Ubuntu 22.04 LTS
-- Java JDK 17
+- Java JDK >= 8
 - Maven 3.6.3
   
 ## Packaging and Installing VeriBoost Locally
 
-To build the **VeriBoost** project and install the generated JAR file into your local Maven repository, follow the steps below:
+To build the *VeriBoost* project and install the generated JAR file into your local Maven repository, follow the steps below:
 
 * Package the project:
 
@@ -61,6 +61,16 @@ Add the following dependency into the pom.xml of verifiers.
 
 ## Using VeriBoost
 
+For a given property, *VeriBoost* classifies links into three categories:
+
+- `down links`: Links whose status is set to *down*. These links are irrelevant to the property and do not need to be considered during verification.
+- `up links`: Links whose status is set to *up*. These links are equivalent with respect to the property and their failures have same impact on the verification result.
+- `symbolic links`: Links whose status remains *symbolic*. These links may affect the property and are considered during verification.
+
+The link statuses are pre-assigned before verification. The resulting topology with these predefined link statuses is then provided to existing verifiers, which only need to enumerate failure scenarios over the `symbolic links` instead of all links.
+
+### Example
+
 Below is a basic example to demonstrate the usage of VeriBoost in your Java application:
 
 ```Java
@@ -81,15 +91,14 @@ public class Example {
 
         // Mimics three properties.
         HashSet<Pair<String, String>> properties = new HashSet<>();
-        properties.add(new Pair<String,String>("montgomery", "rocktthill"));
-        properties.add(new Pair<String,String>("hawkinsville", "yemassee"));
-        properties.add(new Pair<String,String>("danville", "staunton"));
+        properties.add(new Pair<String,String>("blueridge", "sylva"));
+        properties.add(new Pair<String,String>("atlanta", "greensboro"));
+	    properties.add(new Pair<String,String>("kingsport", "marion"));
 
         for(Pair<String, String> property : properties) {
             // Step 3: Calculate constraints between source node and desination node.
             String srcNode = property.getKey();
             String dstNode = property.getValue();
-            System.out.print(srcNode + " " + dstNode);
             veriBoost.calculateLinkStatus(srcNode, dstNode);
      
             // Step 4: Query constraints by link type
@@ -107,13 +116,32 @@ public class Example {
 }
 ```
 
-- `addLink(Link)` adds a link to the network topology maintained by **VeriBoost**. A `Link` is represented as a quadruple `(source device, source port, destination device, destination port)`.
+Run the following command to automatically execute the provided example:
+```java
+java -cp target/veriboost-core-1.0.jar org.ants.Example
+```
+
+The command will produce the following output:
+```log
+property: kingsport -> marion, symbolicinks: 3, downLinks: 200, upLinks: 2
+property: atlanta -> greensboro, symbolicinks: 61, downLinks: 79, upLinks: 65
+property: blueridge -> sylva, symbolicinks: 5, downLinks: 192, upLinks: 8
+```
+
+### API of VeriBoost
+
+The `VeriBoost` class provides the following functions:
+
+- `addLink(Link)` adds a link to the network topology maintained by *VeriBoost*. A `Link` is represented as a quadruple `(source device, source port, destination device, destination port)`.
 
 - `readTopologyFromFile(File)` initializes the network topology by loading links from a file. Internally, this function repeatedly invokes `addLink(Link)` to construct the topology.
 
 - `buildComponent()` preprocesses the topology and constructs point biconnected components, avoiding repeated computations of point biconnected components.
 
-- `calLinkStatus(Source, Destination)` enables **VeriBoost** to compute the status of links between two endpoints and classify them into three categories: **down**, **up**, and **symbolic**.
+- `calLinkStatus(Source, Destination)` enables *VeriBoost* to compute the status of links between two endpoints and classify them into three categories: **down**, **up**, and **symbolic**.
 
 - `getSymbolicLinks()`, `getUpLinks()`, and `getDownLinks()` return the corresponding link sets. These results can be directly used by different types of verifiers to reduce the failure-scenario space during verification.
 
+## Developer
+
+Ning Kang (XJTU | kangning2018@foxmail.com)

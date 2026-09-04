@@ -1,6 +1,6 @@
 package org.ants;
 import org.ants.VeriBoostUtil.Link;
-import javafx.util.Pair;
+import org.ants.VeriBoostUtil.SimpleLink;
 import java.util.HashSet;
 
 public class Example {
@@ -14,16 +14,15 @@ public class Example {
         veriBoost.buildComponent();
 
         // Mimics three properties.
-        HashSet<Pair<String, String>> properties = new HashSet<>();
-        properties.add(new Pair<String,String>("montgomery", "rocktthill"));
-        properties.add(new Pair<String,String>("hawkinsville", "yemassee"));
-        properties.add(new Pair<String,String>("danville", "staunton"));
-	
-        for(Pair<String, String> property : properties) {
+        HashSet<SimpleLink> properties = new HashSet<>();
+        properties.add(new SimpleLink("blueridge", "sylva"));
+        properties.add(new SimpleLink("atlanta", "greensboro"));
+	    properties.add(new SimpleLink("kingsport", "marion"));
+
+        for(SimpleLink property : properties) {
             // Step 3: Calculate constraints between source node and desination node.
-            String srcNode = property.getKey();
-            String dstNode = property.getValue();
-            System.out.print(srcNode + " " + dstNode);
+            String srcNode = property.getFirst();
+            String dstNode = property.getSecond();
             veriBoost.calculateLinkStatus(srcNode, dstNode);
      
             // Step 4: Query constraints by link type

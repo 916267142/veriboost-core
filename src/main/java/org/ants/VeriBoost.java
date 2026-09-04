@@ -108,6 +108,8 @@ public class VeriBoost extends VeriBoostParser {
         free_links.clear();
         up_links.clear();
         down_links.clear();
+        trivialPathCore = new TrivialPathCore();
+        mincutCore = new TrimmingCore();
         
         // Initialize all links as down
         minesweeper_link_types = new HashMap<>();
@@ -149,6 +151,10 @@ public class VeriBoost extends VeriBoostParser {
         free_links.clear();
         up_links.clear();
         down_links.clear();
+
+        trivialPathCore = new TrivialPathCore();
+        networkGraph = new NetworkGraph();
+        mincutCore = new TrimmingCore();
         
         // Initialize all links as up
         minesweeper_link_types = new HashMap<>();
