@@ -1,4 +1,7 @@
-# VeriBoost
+# VeriBoost: A General Acceleration Approach for Fault-Tolerance Verification in Wide-Area Networks
+
+by [Ning Kang](https://xjtu-netverify.github.io/people/nkang/), [Peng Zhang](https://xjtu-netverify.github.io/people/pzhang/), [Hao Li](https://haolis.com/), [Jianyuan Zhang](https://xjtu-netverify.github.io/people/jyzhang/)
+
 ![Java](https://img.shields.io/badge/Java-8-007396?logo=java&logoColor=white) ![Tests](https://img.shields.io/badge/tests-passing-brightgreen?logo=java) ![Paper](https://img.shields.io/badge/paper-TSE2026-orange) ![License](https://img.shields.io/badge/license-Apache--2.0-green)
 
 ## Overview
