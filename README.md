@@ -71,7 +71,7 @@ The link statuses are pre-assigned before verification. The resulting topology w
 
 ### Example
 
-Below is a basic example to demonstrate the usage of VeriBoost in your Java application:
+Below is a basic example to demonstrate the usage of *VeriBoost* in your Java application:
 
 ```Java
 package org.ants;
@@ -106,7 +106,8 @@ public class Example {
             HashSet<Link> downLinks = veriBoost.getDownLinks();
             HashSet<Link> symbolicLinks = veriBoost.getSymbolicLinks();
 
-            // Step 5: According to the type of verifiers, apply VeriBoost. For example, SMT-based, simulation-based, hybrid-based, or graph-based verifiers.
+            // Step 5: According to the type of verifiers, apply VeriBoost. 
+            // For example, SMT-based, simulation-based, hybrid-based, or graph-based verifiers.
             System.out.println("property: " + srcNode + " -> " + dstNode
                 + ", symbolicinks: " + (symbolicLinks == null ? 0 : symbolicLinks.size() / 2)
                 + ", downLinks: " + (downLinks == null ? 0 : downLinks.size() / 2)
@@ -116,7 +117,7 @@ public class Example {
 }
 ```
 
-Run the following command to automatically execute the provided example:
+Run the following command to automatically execute the above example:
 ```java
 java -cp target/veriboost-core-1.0.jar org.ants.Example
 ```
